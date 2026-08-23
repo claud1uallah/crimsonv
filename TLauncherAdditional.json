@@ -1,0 +1,990 @@
+{
+  "activateSkinCapeForUserVersion": false,
+  "skipHashsumValidation": false,
+  "additionalFiles": [
+    {
+      "sha1": "045d6edac8fe1b004e159c49704b5b729f551079",
+      "size": 9118806,
+      "path": "libraries/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-slim.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-slim.jar"
+    },
+    {
+      "sha1": "fae9e75d511e211d80580d3ffcc7e1f0d94f67ef",
+      "size": 11352644,
+      "path": "libraries/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-srg.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-srg-fae9e75d511e211d80580d3ffcc7e1f0d94f67ef.jar"
+    },
+    {
+      "sha1": "4aef4168f94d97bc73bf510213b2518942f931d1",
+      "size": 8428369,
+      "path": "libraries/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-extra.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-extra.jar"
+    },
+    {
+      "sha1": "f0b1ece7b16290e61d1cd76b67b94ae499ecdd9a",
+      "size": 4214137,
+      "path": "libraries/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34-client.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34-client.jar"
+    },
+    {
+      "sha1": "24aa8afad1764e4ff18eea3071cbb54461943523",
+      "size": 2773337,
+      "path": "libraries/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34-universal.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34-universal.jar"
+    }
+  ],
+  "tlauncherVersion": 0,
+  "modpack": {
+    "modpackMemory": false,
+    "memory": 0,
+    "id": -9286127787000,
+    "name": "CrimsonCraft",
+    "favorite": false,
+    "version": {
+      "mods": [
+        {
+          "stateGameElement": "active",
+          "id": 10000020,
+          "name": "TL skin and cape",
+          "author": "tlauncher.org",
+          "uuid": "cd3ef9ea-62dd-11e6-b39e-002590a1379b",
+          "linkProject": "https://tlauncher.org",
+          "favorite": false,
+          "categories": [],
+          "picture": 73988,
+          "pictures": [
+            73989,
+            73990
+          ],
+          "lanName": "tl-skin-and-cape",
+          "version": {
+            "id": 11022287,
+            "name": "1.38",
+            "updateDate": 1761297259000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 31,
+                "name": "1.16.5"
+              },
+              {
+                "id": 30,
+                "name": "1.16.4"
+              },
+              {
+                "id": 29,
+                "name": "1.16.3"
+              },
+              {
+                "id": 28,
+                "name": "1.16.2"
+              },
+              {
+                "id": 27,
+                "name": "1.16.1"
+              },
+              {
+                "id": 26,
+                "name": "1.15.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "d16728dcbf77e3513b480e01dc75de80399eafdf",
+              "size": 590859,
+              "path": "mods/tl_skin_cape_forge_1.15.2_1.16.5-1.37.jar",
+              "url": "/mods/40962206/11022283/tl_skin_cape_forge_1.15.2_1.16.5-1.37.jar"
+            },
+            "installed": 5796910,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 332992,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 70,
+            "name": "26.2"
+          },
+          "updated": 1783513656000,
+          "update": 1783513656000,
+          "downloadALL": 701784488,
+          "available": true,
+          "parser": false,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 9999999,
+          "name": "Optifine",
+          "author": "OptiFine.net",
+          "uuid": "cd3ef9ea-62dd-11e6-b39e-002590a1379b",
+          "linkProject": "https://optifine.net",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 22,
+              "name": "mc_miscellaneous",
+              "shortName": "mixed",
+              "nesting": 0
+            },
+            {
+              "id": 2,
+              "name": "adventure_rpg",
+              "shortName": "rpg",
+              "nesting": 0
+            },
+            {
+              "id": 29,
+              "name": "world_gen",
+              "shortName": "world",
+              "nesting": 0
+            }
+          ],
+          "picture": 52103,
+          "pictures": [],
+          "lanName": "optifine",
+          "version": {
+            "id": 11001943,
+            "name": "OptiFine-1.16.5_HD_U_G8_pre2",
+            "updateDate": 1614978000000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 31,
+                "name": "1.16.5"
+              }
+            ],
+            "metadata": {
+              "sha1": "d56f41f4e746b66ff0d63ecedf3781e2fa7ef1b1",
+              "size": 5400622,
+              "path": "mods/OptiFine-1.16.5_HD_U_G8_pre2.jar",
+              "url": "/mods/9999999/11001943/OptiFine-1.16.5_HD_U_G8_pre2.jar"
+            },
+            "installed": 28961346,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 106929,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1778744931000,
+          "update": 1778744931000,
+          "downloadALL": 241140078,
+          "available": true,
+          "parser": false,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": -9526600594700,
+          "name": "additional-guns-0.8.0-1.16.5",
+          "favorite": false,
+          "version": {
+            "id": -9526624770700,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "5b3a950c025b5bbfa87610c9b6c6f2a9971d84ef",
+              "size": 1146326,
+              "path": "mods/additional-guns-0.8.0-1.16.5.jar",
+              "url": "mods/additional-guns-0.8.0-1.16.5.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -9526624803800,
+          "name": "architectury-1.32.68",
+          "favorite": false,
+          "version": {
+            "id": -9526641893600,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "ebd266dd51de8f4dd99c9b4731e35b8340734cda",
+              "size": 551889,
+              "path": "mods/architectury-1.32.68.jar",
+              "url": "mods/architectury-1.32.68.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -9526641914800,
+          "name": "betterbiomeblend-1.16.4-1.2.9-forge",
+          "favorite": false,
+          "version": {
+            "id": -9526922801400,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "eb311d55e2d7c334729c7dccd5d19064fa71b6fe",
+              "size": 33454,
+              "path": "mods/betterbiomeblend-1.16.4-1.2.9-forge.jar",
+              "url": "mods/betterbiomeblend-1.16.4-1.2.9-forge.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -9526922820900,
+          "name": "bubusteinmoneymod-Forge-mc1.16.5-1.0.11",
+          "favorite": false,
+          "version": {
+            "id": -9526979217100,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "17d8f854c2eb870b1715aa78e1027599c95d9000",
+              "size": 11745326,
+              "path": "mods/bubusteinmoneymod-Forge-mc1.16.5-1.0.11.jar",
+              "url": "mods/bubusteinmoneymod-Forge-mc1.16.5-1.0.11.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -9526979239200,
+          "name": "cardboardboxes-1.16.5-0.0.5",
+          "favorite": false,
+          "version": {
+            "id": -9527249347000,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "a52098d208712d06ea730aa86782746649d15572",
+              "size": 30097,
+              "path": "mods/cardboardboxes-1.16.5-0.0.5.jar",
+              "url": "mods/cardboardboxes-1.16.5-0.0.5.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -9527249367100,
+          "name": "cfm-7.0.0pre22-1.16.3",
+          "favorite": false,
+          "version": {
+            "id": -9527270653400,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "565ec70fe30e3cd711e2b841de3265f176897283",
+              "size": 2033912,
+              "path": "mods/cfm-7.0.0pre22-1.16.3.jar",
+              "url": "mods/cfm-7.0.0pre22-1.16.3.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -9527270676600,
+          "name": "cgm-1.2.6-1.16.5",
+          "favorite": false,
+          "version": {
+            "id": -9527292607300,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "fd68ddfceb38361124a39c4d59b08cbb4eb7b78d",
+              "size": 1607217,
+              "path": "mods/cgm-1.2.6-1.16.5.jar",
+              "url": "mods/cgm-1.2.6-1.16.5.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -9527292634400,
+          "name": "cloth-config-4.17.101-forge",
+          "favorite": false,
+          "version": {
+            "id": -9527312059000,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "56bcf4bcb80ed8701436f36d24be72fbec3f944f",
+              "size": 1452545,
+              "path": "mods/cloth-config-4.17.101-forge.jar",
+              "url": "mods/cloth-config-4.17.101-forge.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -9527312083100,
+          "name": "costumes-2.0.3",
+          "favorite": false,
+          "version": {
+            "id": -9527326229800,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "91eddd3e9624d2f6652d44488d69028072e1f5ea",
+              "size": 363356,
+              "path": "mods/costumes-2.0.3.jar",
+              "url": "mods/costumes-2.0.3.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -9527326252000,
+          "name": "crimson-barbut-1.0.0",
+          "favorite": false,
+          "version": {
+            "id": -9527486538900,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "e6e11094d0538ede9cf7a674b97bff5bc6ba4c5d",
+              "size": 21897,
+              "path": "mods/crimson-barbut-1.0.0.jar",
+              "url": "mods/crimson-barbut-1.0.0.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -9527486560500,
+          "name": "crimsonframework-1.5.232",
+          "favorite": false,
+          "version": {
+            "id": -9527542449200,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "fe90f9f50a3a8a320149f32176950a56cc5bda8a",
+              "size": 11433835,
+              "path": "mods/crimsonframework-1.5.232.jar",
+              "url": "mods/crimsonframework-1.5.232.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -9527542474100,
+          "name": "FarmersDelight-1.16.5-0.6.0",
+          "favorite": false,
+          "version": {
+            "id": -9527565723900,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "006e441f80aa2c97787cf9b968926a6b2eb22470",
+              "size": 2565217,
+              "path": "mods/FarmersDelight-1.16.5-0.6.0.jar",
+              "url": "mods/FarmersDelight-1.16.5-0.6.0.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -9527565747400,
+          "name": "FastWorkbench-1.16.5-4.6.2",
+          "favorite": false,
+          "version": {
+            "id": -9527763509000,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "e09ba6dab84a8246931179ac96430c6bca546b97",
+              "size": 22470,
+              "path": "mods/FastWorkbench-1.16.5-4.6.2.jar",
+              "url": "mods/FastWorkbench-1.16.5-4.6.2.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -9527763532300,
+          "name": "ferritecore-2.1.1-forge",
+          "favorite": false,
+          "version": {
+            "id": -9527775780200,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "3ae8dbe663156a8dec621d255856356444586905",
+              "size": 108557,
+              "path": "mods/ferritecore-2.1.1-forge.jar",
+              "url": "mods/ferritecore-2.1.1-forge.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -9527775834600,
+          "name": "fishingoverhaul-1.16.5-1.0.2",
+          "favorite": false,
+          "version": {
+            "id": -9527958017600,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "36ad23575d922548b4c288d77076926c661950dc",
+              "size": 27594,
+              "path": "mods/fishingoverhaul-1.16.5-1.0.2.jar",
+              "url": "mods/fishingoverhaul-1.16.5-1.0.2.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -9527958042400,
+          "name": "ironchest-1.16.5-11.2.21",
+          "favorite": false,
+          "version": {
+            "id": -9527972782000,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "59e263b8dd04ad2742def8b3773d5e2f6e1ba03c",
+              "size": 258298,
+              "path": "mods/ironchest-1.16.5-11.2.21.jar",
+              "url": "mods/ironchest-1.16.5-11.2.21.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -9527972809200,
+          "name": "jei-1.16.5-7.8.0.1009",
+          "favorite": false,
+          "version": {
+            "id": -9527988476900,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "cb07340ff3b0d66d0541ff98e5fa6abcd392b08c",
+              "size": 839446,
+              "path": "mods/jei-1.16.5-7.8.0.1009.jar",
+              "url": "mods/jei-1.16.5-7.8.0.1009.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -9527988502500,
+          "name": "LicensingMod+v1.0.2",
+          "favorite": false,
+          "version": {
+            "id": -9527999494200,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "388e0bd0c74a73fd8fcc863eb4884ec8281563c2",
+              "size": 83448,
+              "path": "mods/LicensingMod+v1.0.2.jar",
+              "url": "mods/LicensingMod+v1.0.2.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -9527999523800,
+          "name": "Modernxl+1.16.5",
+          "favorite": false,
+          "version": {
+            "id": -9528147596900,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "9912172b0c0dbadf0a30bdd56e56808dfd121eba",
+              "size": 37979285,
+              "path": "mods/Modernxl+1.16.5.jar",
+              "url": "mods/Modernxl+1.16.5.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -9528147624200,
+          "name": "obfuscate-0.6.3-1.16.5",
+          "favorite": false,
+          "version": {
+            "id": -9528160417000,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "a06fc70c114fcf2dbdab8d9144e0e6d6df5bd424",
+              "size": 142536,
+              "path": "mods/obfuscate-0.6.3-1.16.5.jar",
+              "url": "mods/obfuscate-0.6.3-1.16.5.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -9528160441300,
+          "name": "paladin-furniture-mod-1.1.1-forge-mc1.16.5-patched",
+          "favorite": false,
+          "version": {
+            "id": -9528191625600,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "03de215f58ae2bdfa79ee68501375c401bfd802f",
+              "size": 4966804,
+              "path": "mods/paladin-furniture-mod-1.1.1-forge-mc1.16.5-patched.jar",
+              "url": "mods/paladin-furniture-mod-1.1.1-forge-mc1.16.5-patched.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -9528191652400,
+          "name": "Placebo-1.16.5-4.7.1",
+          "favorite": false,
+          "version": {
+            "id": -9528203513400,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "4ad9f59ad104a70eb3f54dfce32b1a358891d184",
+              "size": 174158,
+              "path": "mods/Placebo-1.16.5-4.7.1.jar",
+              "url": "mods/Placebo-1.16.5-4.7.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -9528203537900,
+          "name": "plasmovoice-forge-1.16.5-2.1.7",
+          "favorite": false,
+          "version": {
+            "id": -9528261969000,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "bcb9702d963bdb05050d219aef8dadcc153772df",
+              "size": 12167469,
+              "path": "mods/plasmovoice-forge-1.16.5-2.1.7.jar",
+              "url": "mods/plasmovoice-forge-1.16.5-2.1.7.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -9528262002000,
+          "name": "Saros-Road-Blocks-Mod-1.16.5-2.5",
+          "favorite": false,
+          "version": {
+            "id": -9528281722900,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "2a6655854a235363293d75f7229ab47046b51475",
+              "size": 1188861,
+              "path": "mods/Saros-Road-Blocks-Mod-1.16.5-2.5.jar",
+              "url": "mods/Saros-Road-Blocks-Mod-1.16.5-2.5.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -9528281751500,
+          "name": "Saros-Road-Signs-Mod-1.16.5-3.2",
+          "favorite": false,
+          "version": {
+            "id": -9528302009500,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "b88eaecdfd08af0b0ba11c9afbc282749f0a73c5",
+              "size": 2001201,
+              "path": "mods/Saros-Road-Signs-Mod-1.16.5-3.2.jar",
+              "url": "mods/Saros-Road-Signs-Mod-1.16.5-3.2.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -9528302040600,
+          "name": "TheDirtyStuff_1.16.5_v.1.3",
+          "favorite": false,
+          "version": {
+            "id": -9528318612400,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "760049687b390866b47c214593b8fe0cb013f548",
+              "size": 823532,
+              "path": "mods/TheDirtyStuff_1.16.5_v.1.3.jar",
+              "url": "mods/TheDirtyStuff_1.16.5_v.1.3.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -9528318640600,
+          "name": "useful_backpacks-1.16.5-1.12.1.103",
+          "favorite": false,
+          "version": {
+            "id": -9528332355500,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "98e4a26bf19eb95beacdede33a237022c1969aa8",
+              "size": 172481,
+              "path": "mods/useful_backpacks-1.16.5-1.12.1.103.jar",
+              "url": "mods/useful_backpacks-1.16.5-1.12.1.103.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -9528332385100,
+          "name": "u_team_core-1.16.5-3.2.1.258",
+          "favorite": false,
+          "version": {
+            "id": -9528346366900,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "e7c71842fc008502feabe70c1d62ddf749335228",
+              "size": 398201,
+              "path": "mods/u_team_core-1.16.5-3.2.1.258.jar",
+              "url": "mods/u_team_core-1.16.5-3.2.1.258.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -9528346395000,
+          "name": "vehicle-mod-0.45.2-1.16.3",
+          "favorite": false,
+          "version": {
+            "id": -9528370874500,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "30275bfea9681d3ef046d25b77b1dd73429cf965",
+              "size": 3397300,
+              "path": "mods/vehicle-mod-0.45.2-1.16.3.jar",
+              "url": "mods/vehicle-mod-0.45.2-1.16.3.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -9528370902300,
+          "name": "XaerosWorldMap_1.30.3_Forge_1.16.5",
+          "favorite": false,
+          "version": {
+            "id": -9528386665200,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "b14ca5db9c3c21637509e8d6f1727fedaa845164",
+              "size": 703746,
+              "path": "mods/XaerosWorldMap_1.30.3_Forge_1.16.5.jar",
+              "url": "mods/XaerosWorldMap_1.30.3_Forge_1.16.5.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -9528386692000,
+          "name": "Xaeros_Minimap_23.4.4_Forge_1.16.5",
+          "favorite": false,
+          "version": {
+            "id": -9528407189600,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "ef1db69c5ad1275a48eb01d8afb2411f8bdf553f",
+              "size": 1242474,
+              "path": "mods/Xaeros_Minimap_23.4.4_Forge_1.16.5.jar",
+              "url": "mods/Xaeros_Minimap_23.4.4_Forge_1.16.5.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -9528407221600,
+          "name": "xlfoodmod-1.16.4-1.2.0",
+          "favorite": false,
+          "version": {
+            "id": -9528421977600,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "7cd2e2feab028f2f98971c7ae1325c5e6653d0bd",
+              "size": 475766,
+              "path": "mods/xlfoodmod-1.16.4-1.2.0.jar",
+              "url": "mods/xlfoodmod-1.16.4-1.2.0.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -9528422005000,
+          "name": "[1.16.5]+SecurityCraft+v1.9.7.1",
+          "favorite": false,
+          "version": {
+            "id": -9528461087800,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "cede09a52b2d15a7d6a3f462160818acfd46a03b",
+              "size": 3400427,
+              "path": "mods/[1.16.5]+SecurityCraft+v1.9.7.1.jar",
+              "url": "mods/[1.16.5]+SecurityCraft+v1.9.7.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        }
+      ],
+      "resourcePacks": [],
+      "maps": [],
+      "shaderpacks": [],
+      "gameVersionDTO": {
+        "id": 31,
+        "name": "1.16.5"
+      },
+      "minecraftVersionName": {
+        "id": 3127,
+        "name": "36.2.34"
+      },
+      "id": -9286127798501,
+      "name": "1.0",
+      "available": false,
+      "remove": false,
+      "minecraftVersionTypes": [
+        {
+          "id": 1,
+          "name": "forge"
+        }
+      ]
+    },
+    "userInstall": false,
+    "populateStatus": false,
+    "available": false,
+    "parser": false,
+    "totalComments": 0
+  },
+  "source": "local_version_repo",
+  "jar": "1.16.5",
+  "skinVersion": true
+}

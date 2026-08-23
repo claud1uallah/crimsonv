@@ -1,0 +1,22 @@
+
+#Gameplay settings
+[barbut]
+	#How long the dice result stays on screen.
+	#Range: 3 ~ 30
+	hudDisplaySeconds = 8
+	#Players must be within this distance to start or accept a duel.
+	#Range: 1.0 ~ 128.0
+	maxChallengeDistance = 10.0
+	#How long a challenge remains pending.
+	#Range: 5 ~ 300
+	challengeTimeoutSeconds = 30
+
+#Economy integration. Do not include a leading slash. Supported placeholders: {player}, {amount}.
+[economy]
+	#Command used to pay the player.
+	depositCommand = "eco give {amount} {player}"
+	#Command used to remove the wager from a player.
+	withdrawCommand = "eco take {amount} {player}"
+	#Set to false if you want the mod to roll without touching economy commands.
+	enabled = true
+

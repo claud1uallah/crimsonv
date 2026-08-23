@@ -1,0 +1,1857 @@
+[14:14:56] [main/INFO]: ModLauncher running: args [--username, SZN_Nero, --version, CrimsonCraft, --gameDir, C:\Users\nrk47\AppData\Roaming\.minecraft\versions\CrimsonCraft, --assetsDir, C:\Users\nrk47\AppData\Roaming\.minecraft\assets, --assetIndex, 1.16, --uuid, 123eddbd-cdd4-11ef-af44-9c6b00470e68, --accessToken, ????????, --userType, mojang, --versionType, modified, --width, 925, --height, 530, --launchTarget, fmlclient, --fml.forgeVersion, 36.2.42, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20210115.111550]
+[14:14:56] [main/INFO]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 1.8.0_51 by Oracle Corporation
+[14:14:56] [main/WARN]: LEGACY JDK DETECTED, SECURED JAR HANDLING DISABLED
+[14:14:56] [main/INFO]: OptiFineTransformationService.onLoad
+[14:14:56] [main/INFO]: OptiFine ZIP file: C:\Users\nrk47\AppData\Roaming\.minecraft\versions\CrimsonCraft\mods\OptiFine-1.16.5_HD_U_G8_pre2.jar
+[14:14:56] [main/INFO]: Target.PRE_CLASS is available
+[14:14:56] [main/INFO]: Added Lets Encrypt root certificates as additional trust
+[14:14:56] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/C:/Users/nrk47/AppData/Roaming/.minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=CLIENT
+[14:14:56] [main/INFO]: OptiFineTransformationService.initialize
+[14:14:59] [main/INFO]: OptiFineTransformationService.transformers
+[14:14:59] [main/INFO]: Targets: 308
+[14:14:59] [main/INFO]: additionalClassesLocator: [optifine., net.optifine.]
+[14:15:00] [main/INFO]: Launching target 'fmlclient' with arguments [--version, CrimsonCraft, --gameDir, C:\Users\nrk47\AppData\Roaming\.minecraft\versions\CrimsonCraft, --assetsDir, C:\Users\nrk47\AppData\Roaming\.minecraft\assets, --uuid, 123eddbd-cdd4-11ef-af44-9c6b00470e68, --username, SZN_Nero, --assetIndex, 1.16, --accessToken, ????????, --userType, mojang, --versionType, modified, --width, 925, --height, 530]
+[14:15:00] [main/INFO]: Patching LivingEntity#attackEntityFrom
+[14:15:01] [main/WARN]: Error loading class: me/cominixo/betterf3/modules/TargetModule (java.lang.ClassNotFoundException: null)
+[14:15:01] [main/WARN]: @Mixin target me.cominixo.betterf3.modules.TargetModule was not found securitycraft.mixins.json:f3.BetterF3TargetModuleMixin
+[14:15:02] [main/INFO]: Patching BlockModelShapes#getModelLocation
+[14:15:02] [main/INFO]: Patching LivingEntity#attackEntityFrom
+[14:15:02] [main/INFO]: Patching ItemStack#onItemUse
+[14:15:02] [main/INFO]: Patching ItemStack#onItemUse
+[14:15:04] [pool-3-thread-1/INFO]: Using Java 8 class definer
+[14:15:11] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:15:11] [main/INFO]: Setting user: SZN_Nero
+[14:15:12] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraft.launchwrapper.Launch
+[14:15:12] [main/INFO]: Backend library: LWJGL version 3.2.2 build 10
+[14:15:16] [main/INFO]: [OptiFine] 
+[14:15:16] [main/INFO]: [OptiFine] OptiFine_1.16.5_HD_U_G8_pre2
+[14:15:16] [main/INFO]: [OptiFine] Build: 20210305-002749
+[14:15:16] [main/INFO]: [OptiFine] OS: Windows 10 (amd64) version 10.0
+[14:15:16] [main/INFO]: [OptiFine] Java: 1.8.0_51, Oracle Corporation
+[14:15:16] [main/INFO]: [OptiFine] VM: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+[14:15:16] [main/INFO]: [OptiFine] LWJGL: 3.3.0 Win32 WGL EGL OSMesa VisualC DLL
+[14:15:16] [main/INFO]: [OptiFine] OpenGL: NVIDIA GeForce GTX 1660/PCIe/SSE2, version 4.6.0 NVIDIA 591.86, NVIDIA Corporation
+[14:15:16] [main/INFO]: [OptiFine] OpenGL Version: 4.6.0
+[14:15:16] [main/INFO]: [OptiFine] Maximum texture size: 32768x32768
+[14:15:16] [VersionCheck/INFO]: [OptiFine] Checking for new version
+[14:15:16] [main/INFO]: [Shaders] OpenGL Version: 4.6.0 NVIDIA 591.86
+[14:15:16] [main/INFO]: [Shaders] Vendor:  NVIDIA Corporation
+[14:15:16] [main/INFO]: [Shaders] Renderer: NVIDIA GeForce GTX 1660/PCIe/SSE2
+[14:15:16] [main/INFO]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  4.0 
+[14:15:16] [main/INFO]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+[14:15:16] [main/INFO]: [Shaders] GL_MAX_COLOR_ATTACHMENTS_EXT: 8
+[14:15:16] [main/INFO]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
+[14:15:16] [main/INFO]: [Shaders] Load shaders configuration.
+[14:15:16] [main/INFO]: [Shaders] Save shaders configuration.
+[14:15:16] [main/INFO]: [Shaders] No shaderpack loaded.
+[14:15:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.Loader
+[14:15:17] [VersionCheck/INFO]: [OptiFine] Version found: G7
+[14:15:18] [modloading-worker-6/INFO]: Mod usefulbackpacks is signed with a valid certificate.
+[14:15:18] [modloading-worker-1/INFO]: Patching DataPackRegistries#<init>
+[14:15:18] [modloading-worker-2/INFO]: Patching ModelBakery#<init>
+[14:15:18] [modloading-worker-1/INFO]: ModHandler#buildHandlerData() -> Loading data and data handlers
+[14:15:18] [modloading-worker-1/INFO]: Finished building the config -> net.minecraftforge.common.ForgeConfigSpec@f39b0a74
+[14:15:18] [modloading-worker-4/INFO]: Optifine GUI option was successfully replaced.
+[14:15:18] [modloading-worker-6/INFO]: Mod uteamcore is signed with a valid certificate.
+[14:15:19] [modloading-worker-1/INFO]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
+[14:15:19] [modloading-worker-1/INFO]: MinecraftForge v36.2.42 Initialized
+[14:15:19] [modloading-worker-4/INFO]: [bubusteinmoneymod] Printing money. . . ;)
+[14:15:19] [modloading-worker-4/INFO]: [bubusteinmoneymod] Crafting ATM. . .
+[14:15:19] [modloading-worker-4/INFO]: [bubusteinmoneymod] Registering Bank Machine GUI. . .
+[14:15:19] [modloading-worker-4/INFO]: [bubusteinmoneymod] Registering Bank Machine Recipes. . .
+[14:15:19] [modloading-worker-4/INFO]: [bubusteinmoneymod] Generating Mansions. . .
+[14:15:19] [modloading-worker-4/INFO]: [bubusteinmoneymod] Making new jobs. . .
+[14:15:19] [modloading-worker-4/INFO]: [bubusteinmoneymod] The Mod has been loaded successfully
+[14:15:21] [ForkJoinPool.commonPool-worker-2/WARN]: [Paladin's Furniture Update Check] Unable to download https://github.com/UnlikePaladin/Paladins-Furniture-Update-Index/releases/download/1.5/15update.json
+[14:15:21] [ForkJoinPool.commonPool-worker-2/WARN]: [Paladin's Furniture Update Check] Returning null!
+[14:15:24] [main/INFO]: Narrator library for x64 successfully loaded
+[14:15:24] [main/INFO]: Reloading ResourceManager: Default, Mod Resources
+[14:15:24] [main/INFO]: [OptiFine] *** Reloading textures ***
+[14:15:24] [main/INFO]: [OptiFine] Resource packs: Mod Resources
+[14:15:24] [main/INFO]: [OptiFine] *** Reflector Forge ***
+[14:15:24] [main/INFO]: [OptiFine] (Reflector) Class not present: mods.betterfoliage.client.BetterFoliageClient
+[14:15:24] [main/INFO]: Patching LootTableManager#apply
+[14:15:24] [main/WARN]: [OptiFine] (Reflector) More than one method found: net.minecraftforge.client.ForgeHooksClient.renderMainMenu
+[14:15:24] [main/WARN]: [OptiFine] (Reflector)  - public static void net.minecraftforge.client.ForgeHooksClient.renderMainMenu(net.minecraft.client.gui.screen.MainMenuScreen,com.mojang.blaze3d.matrix.MatrixStack,net.minecraft.client.gui.FontRenderer,int,int)
+[14:15:24] [main/WARN]: [OptiFine] (Reflector)  - public static void net.minecraftforge.client.ForgeHooksClient.renderMainMenu(net.minecraft.client.gui.screen.MainMenuScreen,com.mojang.blaze3d.matrix.MatrixStack,net.minecraft.client.gui.FontRenderer,int,int,int)
+[14:15:24] [main/INFO]: [OptiFine] (Reflector) Field not present: net.minecraftforge.client.model.pipeline.LightUtil.itemConsumer
+[14:15:24] [main/INFO]: [OptiFine] (Reflector) Field not present: net.minecraftforge.client.model.pipeline.LightUtil.tessellator
+[14:15:24] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.ModContainer
+[14:15:24] [Worker-Main-9/INFO]: [OptiFine] Multitexture: false
+[14:15:24] [main/INFO]: [OptiFine] *** Reflector Vanilla ***
+[14:15:24] [Worker-Main-9/INFO]: [OptiFine] Scaled non power of 2: jei:gui/icons/recipe_transfer, 7 -> 14
+[14:15:24] [Worker-Main-6/INFO]: [OptiFine] Multitexture: false
+[14:15:24] [Worker-Main-10/INFO]: [OptiFine] Multitexture: false
+[14:15:25] [Worker-Main-8/INFO]: [OptiFine] Multitexture: false
+[14:15:26] [Worker-Main-7/WARN]: Unable to load model: 'minecraft:CaseBox_Vert' referenced from: minecraftmodernxl:boxblanchecasebleu#facing=north: {}
+[14:15:26] [Worker-Main-7/WARN]: java.io.FileNotFoundException: minecraft:models/CaseBox_Vert.json
+[14:15:26] [Worker-Main-7/WARN]: Unable to load model: 'minecraft:Lampclaire' referenced from: minecraftmodernxl:lamp1#facing=north: {}
+[14:15:26] [Worker-Main-7/WARN]: java.io.FileNotFoundException: minecraft:models/Lampclaire.json
+[14:15:26] [Worker-Main-7/WARN]: Unable to load model: 'minecraft:escalier1' referenced from: minecraftmodernxl:escalier1#facing=north: {}
+[14:15:26] [Worker-Main-7/WARN]: java.io.FileNotFoundException: minecraft:models/escalier1.json
+[14:15:26] [Worker-Main-7/WARN]: Unable to load model: 'minecraft:dallede3' referenced from: minecraftmodernxl:minidalle1#: {}
+[14:15:26] [Worker-Main-7/WARN]: java.io.FileNotFoundException: minecraft:models/dallede3.json
+[14:15:26] [Worker-Main-7/WARN]: Unable to load model: 'minecraft:Plantepotgrande' referenced from: minecraftmodernxl:planteenpot#facing=north: {}
+[14:15:26] [Worker-Main-7/WARN]: java.io.FileNotFoundException: minecraft:models/Plantepotgrande.json
+[14:15:26] [Worker-Main-7/WARN]: Unable to load model: 'minecraft:Strid1' referenced from: minecraftmodernxl:stride1#facing=north: {}
+[14:15:26] [Worker-Main-7/WARN]: java.io.FileNotFoundException: minecraft:models/Strid1.json
+[14:15:26] [Worker-Main-7/WARN]: Unable to load model: 'minecraft:meuble_sdb1' referenced from: minecraftmodernxl:etbl_1#facing=north: {}
+[14:15:26] [Worker-Main-7/WARN]: java.io.FileNotFoundException: minecraft:models/meuble_sdb1.json
+[14:15:26] [Worker-Main-7/WARN]: Unable to load model: 'minecraft:Evier sdb' referenced from: minecraftmodernxl:evierblanc#facing=north: {}
+[14:15:26] [Worker-Main-7/WARN]: java.io.FileNotFoundException: minecraft:models/Evier sdb.json
+[14:15:26] [Worker-Main-7/WARN]: Unable to load model: 'minecraft:Cooker' referenced from: minecraftmodernxl:cooker_1#facing=north: {}
+[14:15:26] [Worker-Main-7/WARN]: java.io.FileNotFoundException: minecraft:models/Cooker.json
+[14:15:26] [Worker-Main-7/WARN]: Unable to load model: 'minecraft:Epice_1' referenced from: minecraftmodernxl:epice_1#facing=north: {}
+[14:15:26] [Worker-Main-7/WARN]: java.io.FileNotFoundException: minecraft:models/Epice_1.json
+[14:15:26] [Worker-Main-7/WARN]: Unable to load model: 'minecraft:Porte_couteau' referenced from: minecraftmodernxl:porte_couteaux#facing=north: {}
+[14:15:26] [Worker-Main-7/WARN]: java.io.FileNotFoundException: minecraft:models/Porte_couteau.json
+[14:15:26] [Worker-Main-7/WARN]: Unable to load model: 'minecraft:Blender' referenced from: minecraftmodernxl:blender#facing=north: {}
+[14:15:26] [Worker-Main-7/WARN]: java.io.FileNotFoundException: minecraft:models/Blender.json
+[14:15:26] [Worker-Main-7/WARN]: Unable to load model: 'minecraft:jeudeboule' referenced from: minecraftmodernxl:jeuboule#facing=north: {}
+[14:15:26] [Worker-Main-7/WARN]: java.io.FileNotFoundException: minecraft:models/jeudeboule.json
+[14:15:26] [Worker-Main-7/WARN]: Unable to load model: 'minecraft:candleholder' referenced from: minecraftmodernxl:candleholder#facing=north: {}
+[14:15:26] [Worker-Main-7/WARN]: java.io.FileNotFoundException: minecraft:models/candleholder.json
+[14:15:26] [Worker-Main-7/WARN]: Unable to load model: 'minecraft:Creeplush' referenced from: minecraftmodernxl:creeplush_blue#facing=north: {}
+[14:15:26] [Worker-Main-7/WARN]: java.io.FileNotFoundException: minecraft:models/Creeplush.json
+[14:15:26] [Worker-Main-7/WARN]: Unable to load model: 'minecraft:Pet_bed' referenced from: minecraftmodernxl:petbed#facing=north: {}
+[14:15:26] [Worker-Main-7/WARN]: java.io.FileNotFoundException: minecraft:models/Pet_bed.json
+[14:15:26] [Worker-Main-7/WARN]: Unable to load model: 'minecraft:velux' referenced from: minecraftmodernxl:velux_black#facing=north: {}
+[14:15:26] [Worker-Main-7/WARN]: java.io.FileNotFoundException: minecraft:models/velux.json
+[14:15:26] [Worker-Main-7/WARN]: Unable to load model: 'minecraft:wallplants' referenced from: minecraftmodernxl:wall_plantsblock#facing=north: {}
+[14:15:26] [Worker-Main-7/WARN]: java.io.FileNotFoundException: minecraft:models/wallplants.json
+[14:15:26] [Worker-Main-7/WARN]: Unable to load model: 'minecraft:Fridge' referenced from: minecraftmodernxl:fridge_black#facing=north: {}
+[14:15:26] [Worker-Main-7/WARN]: java.io.FileNotFoundException: minecraft:models/Fridge.json
+[14:15:26] [Worker-Main-7/WARN]: Unable to load model: 'minecraft:YellowPot' referenced from: minecraftmodernxl:yel_plant#facing=north: {}
+[14:15:26] [Worker-Main-7/WARN]: java.io.FileNotFoundException: minecraft:models/YellowPot.json
+[14:15:26] [Worker-Main-7/WARN]: Unable to load model: 'minecraft:Modern_Rainlight' referenced from: minecraftmodernxl:modern_rainlight#facing=north: {}
+[14:15:26] [Worker-Main-7/WARN]: java.io.FileNotFoundException: minecraft:models/Modern_Rainlight.json
+[14:15:26] [Worker-Main-7/WARN]: Unable to load model: 'minecraft:pot' referenced from: minecraftmodernxl:grandpot_1#facing=north: {}
+[14:15:26] [Worker-Main-7/WARN]: java.io.FileNotFoundException: minecraft:models/pot.json
+[14:15:26] [Worker-Main-7/WARN]: Unable to load model: 'minecraft:mailbox' referenced from: minecraftmodernxl:mailbox_black#facing=north: {}
+[14:15:26] [Worker-Main-7/WARN]: java.io.FileNotFoundException: minecraft:models/mailbox.json
+[14:15:26] [Worker-Main-7/WARN]: Unable to load model: 'minecraft:waterfallPlant' referenced from: minecraftmodernxl:wall_waterfall_plant#facing=north: {}
+[14:15:26] [Worker-Main-7/WARN]: java.io.FileNotFoundException: minecraft:models/waterfallPlant.json
+[14:15:26] [Worker-Main-7/WARN]: Unable to load model: 'minecraft:ladder' referenced from: minecraftmodernxl:modernladder#facing=north: {}
+[14:15:26] [Worker-Main-7/WARN]: java.io.FileNotFoundException: minecraft:models/ladder.json
+[14:15:26] [Worker-Main-7/WARN]: Unable to load model: 'minecraft:cheminey_1' referenced from: minecraftmodernxl:fire_block_wood#facing=north: {}
+[14:15:26] [Worker-Main-7/WARN]: java.io.FileNotFoundException: minecraft:models/cheminey_1.json
+[14:15:26] [Worker-Main-7/WARN]: Unable to load model: 'minecraft:cheminey_coal_1' referenced from: minecraftmodernxl:firecoal_1#facing=north: {}
+[14:15:26] [Worker-Main-7/WARN]: java.io.FileNotFoundException: minecraft:models/cheminey_coal_1.json
+[14:15:27] [Worker-Main-7/WARN]: Exception loading blockstate definition: 'vehicle:blockstates/vehicle_crate.json' missing model for variant: 'vehicle:vehicle_crate#facing=west'
+[14:15:27] [Worker-Main-7/WARN]: Exception loading blockstate definition: 'vehicle:blockstates/vehicle_crate.json' missing model for variant: 'vehicle:vehicle_crate#facing=north'
+[14:15:27] [Worker-Main-7/WARN]: Exception loading blockstate definition: 'vehicle:blockstates/vehicle_crate.json' missing model for variant: 'vehicle:vehicle_crate#facing=south'
+[14:15:27] [Worker-Main-7/WARN]: Exception loading blockstate definition: 'vehicle:blockstates/vehicle_crate.json' missing model for variant: 'vehicle:vehicle_crate#facing=east'
+[14:15:27] [Worker-Main-7/WARN]: Exception loading blockstate definition: 'vehicle:blockstates/vehicle_crate.json' in resourcepack: 'Mod Resources': Missing model, expected to find a string
+[14:15:38] [Worker-Main-7/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[14:15:38] [Worker-Main-7/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[14:15:38] [Worker-Main-7/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[14:15:38] [Worker-Main-7/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[14:15:46] [Worker-Main-7/WARN]: Unable to resolve texture reference: #missing in crimsonframework:vehicle/bmwm2_body
+[14:15:46] [Worker-Main-7/WARN]: Unable to resolve texture reference: #missing in crimsonframework:vehicle/trawk_body
+[14:15:46] [Worker-Main-7/WARN]: Unable to resolve texture reference: #0 in crimsonframework:vehicle/bmw_body
+[14:15:46] [Worker-Main-7/WARN]: Unable to resolve texture reference: #missing in crimsonframework:vehicle/sclass_body
+[14:15:46] [Worker-Main-7/WARN]: Unable to resolve texture reference: #missing in crimsonframework:vehicle/van_body
+[14:15:46] [Worker-Main-7/WARN]: Unable to resolve texture reference: #missing in crimsonframework:vehicle/fister_body
+[14:15:46] [Worker-Main-7/WARN]: Unable to resolve texture reference: #missing in crimsonframework:vehicle/chiron_body
+[14:15:46] [Worker-Main-7/WARN]: Unable to resolve texture reference: #missing in vehicle:vehicle/dirt_bike_body
+[14:15:46] [Worker-Main-7/WARN]: Unable to resolve texture reference: #missing in crimsonframework:vehicle/challenger_body
+[14:15:46] [Worker-Main-7/WARN]: Unable to resolve texture reference: #missing in crimsonframework:vehicle/brabus_body
+[14:15:46] [Worker-Main-7/WARN]: Unable to resolve texture reference: #missing in crimsonframework:vehicle/supramk4_body
+[14:15:46] [Worker-Main-7/WARN]: Unable to resolve texture reference: #missing in crimsonframework:vehicle/rolls_body
+[14:15:46] [Worker-Main-7/WARN]: Unable to resolve texture reference: #missing in crimsonframework:vehicle/gunoi_body
+[14:15:46] [Worker-Main-7/INFO]: [OptiFine] Multitexture: false
+[14:15:46] [Worker-Main-7/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[14:15:46] [Worker-Main-7/INFO]: [OptiFine] Multipass connected textures: false
+[14:15:46] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_pane_white.properties
+[14:15:46] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_white.properties
+[14:15:46] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_orange.properties
+[14:15:46] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_pane_orange.properties
+[14:15:46] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_magenta.properties
+[14:15:46] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_pane_magenta.properties
+[14:15:46] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_light_blue.properties
+[14:15:46] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_pane_light_blue.properties
+[14:15:46] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_pane_yellow.properties
+[14:15:46] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_yellow.properties
+[14:15:46] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_lime.properties
+[14:15:46] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_pane_lime.properties
+[14:15:46] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pane_pink.properties
+[14:15:46] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pink.properties
+[14:15:46] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_gray.properties
+[14:15:46] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_pane_gray.properties
+[14:15:46] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_light_gray.properties
+[14:15:46] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_pane_light_gray.properties
+[14:15:46] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_cyan.properties
+[14:15:46] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_pane_cyan.properties
+[14:15:47] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_pane_purple.properties
+[14:15:47] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_purple.properties
+[14:15:47] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_blue.properties
+[14:15:47] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_pane_blue.properties
+[14:15:47] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_brown.properties
+[14:15:47] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_pane_brown.properties
+[14:15:47] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_green.properties
+[14:15:47] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_pane_green.properties
+[14:15:47] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_pane_red.properties
+[14:15:47] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_red.properties
+[14:15:47] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_black.properties
+[14:15:47] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_pane_black.properties
+[14:15:47] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass.properties
+[14:15:47] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass_pane.properties
+[14:15:47] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/30_bookshelf/bookshelf.properties
+[14:15:47] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/40_sandstone/sandstone.properties
+[14:15:47] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/41_red_sandstone/red_sandstone.properties
+[14:15:47] [Worker-Main-7/INFO]: [OptiFine] Multipass connected textures: false
+[14:15:47] [Worker-Main-7/INFO]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[14:16:00] [Worker-Main-7/INFO]: [OptiFine] Mipmap levels: 4
+[14:16:00] [Worker-Main-11/INFO]: ModHandler#loadHandlerData() -> Accessed Tile Registry: true
+[14:16:00] [Worker-Main-11/INFO]: ModHandler#loadHandlerData() -> Finished loading data handlers
+[14:16:00] [Worker-Main-11/INFO]: ModHandler#loadHandlerData() -> Finished loading configurations
+[14:16:00] [Forge Version Check/INFO]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks.json
+[14:16:00] [Forge Version Check/INFO]: [usefulbackpacks] Found status: UP_TO_DATE Current: 1.12.1.103 Target: null
+[14:16:00] [Forge Version Check/INFO]: [cgm] Starting version check at https://raw.githubusercontent.com/MrCrayfish/ModUpdates/master/cgm/update.json
+[14:16:01] [Worker-Main-11/INFO]: Loading Xaero's Minimap - Stage 1/2
+[14:16:01] [Worker-Main-9/INFO]: Loading Xaero's World Map - Stage 1/2
+[14:16:01] [Forge Version Check/INFO]: [cgm] Found status: BETA Current: 1.2.6 Target: null
+[14:16:01] [Forge Version Check/INFO]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[14:16:01] [Forge Version Check/INFO]: [securitycraft] Found status: OUTDATED Current: v1.9.7.1 Target: v1.10.1
+[14:16:01] [Forge Version Check/INFO]: [additionalguns] Starting version check at https://raw.githubusercontent.com/HaloOfBlocks/VersionChecker/main/additionalguns/update.json
+[14:16:01] [Forge Version Check/INFO]: [additionalguns] Found status: BETA Current: 0.8.0 Target: 0.8.0
+[14:16:01] [Forge Version Check/INFO]: [obfuscate] Starting version check at https://mrcrayfish.com/modupdatejson?id=obfuscate
+[14:16:02] [Forge Version Check/WARN]: Failed to process update information
+java.io.IOException: Server returned HTTP response code: 403 for URL: https://mrcrayfish.com/modupdatejson?id=obfuscate
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_51]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:1889) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:1884) ~[?:1.8.0_51]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection.getChainedException(HttpURLConnection.java:1883) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1456) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1440) ~[?:1.8.0_51]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:254) ~[?:1.8.0_51]
+	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:163) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:187) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1$$Lambda$11611/952060273.accept(Unknown Source) [?:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:1.8.0_51]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:128) [?:?]
+Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL: https://mrcrayfish.com/modupdatejson?id=obfuscate
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1839) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1440) ~[?:1.8.0_51]
+	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:480) ~[?:1.8.0_51]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:338) ~[?:1.8.0_51]
+	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:145) ~[?:?]
+	... 4 more
+[14:16:02] [Forge Version Check/INFO]: [vehicle] Starting version check at https://raw.githubusercontent.com/MrCrayfish/ModUpdates/master/vehicle/update.json
+[14:16:02] [Forge Version Check/INFO]: [vehicle] Found status: BETA Current: 0.45.2 Target: null
+[14:16:02] [Forge Version Check/INFO]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
+[14:16:02] [Forge Version Check/INFO]: [uteamcore] Found status: OUTDATED Current: 3.2.1.258 Target: 3.2.1.378
+[14:16:02] [Forge Version Check/INFO]: [cfm] Starting version check at https://mrcrayfish.com/modupdatejson?id=cfm
+[14:16:02] [Forge Version Check/WARN]: Failed to process update information
+java.io.IOException: Server returned HTTP response code: 403 for URL: https://mrcrayfish.com/modupdatejson?id=cfm
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_51]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:1889) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:1884) ~[?:1.8.0_51]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection.getChainedException(HttpURLConnection.java:1883) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1456) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1440) ~[?:1.8.0_51]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:254) ~[?:1.8.0_51]
+	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:163) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:187) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1$$Lambda$11611/952060273.accept(Unknown Source) [?:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:1.8.0_51]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:128) [?:?]
+Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL: https://mrcrayfish.com/modupdatejson?id=cfm
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1839) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1440) ~[?:1.8.0_51]
+	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:480) ~[?:1.8.0_51]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:338) ~[?:1.8.0_51]
+	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:145) ~[?:?]
+	... 4 more
+[14:16:02] [Forge Version Check/INFO]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[14:16:02] [Forge Version Check/INFO]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
+[14:16:11] [Worker-Main-11/ERROR]: suppressed exception
+java.lang.RuntimeException: Online mod data expired! Date: Mon Aug 17 11:17:32 EEST 2026
+	at xaero.common.patreon.decrypt.DecryptInputStream.read(DecryptInputStream.java:59) ~[?:23.4.4]
+	at java.io.InputStream.read(InputStream.java:170) ~[?:1.8.0_51]
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284) ~[?:1.8.0_51]
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326) ~[?:1.8.0_51]
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178) ~[?:1.8.0_51]
+	at java.io.InputStreamReader.read(InputStreamReader.java:184) ~[?:1.8.0_51]
+	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:1.8.0_51]
+	at java.io.BufferedReader.readLine(BufferedReader.java:324) ~[?:1.8.0_51]
+	at java.io.BufferedReader.readLine(BufferedReader.java:389) ~[?:1.8.0_51]
+	at xaero.common.patreon.Patreon.checkPatreon(Patreon.java:90) [?:23.4.4]
+	at xaero.minimap.XaeroMinimap.loadClient(XaeroMinimap.java:180) [?:23.4.4]
+	at xaero.minimap.XaeroMinimap$$Lambda$3650/1133340695.accept(Unknown Source) [?:23.4.4]
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:247) [eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:239) [eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus$$Lambda$2984/1994100808.invoke(Unknown Source) [eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus$$Lambda$3616/876980897.invoke(Unknown Source) [eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302) [eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283) [eventbus-4.0.0.jar:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.acceptEvent(FMLModContainer.java:106) [?:36.2]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:107) [?:?]
+	at net.minecraftforge.fml.ModContainer$$Lambda$3188/1348937989.run(Unknown Source) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1618) [?:1.8.0_51]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1610) [?:1.8.0_51]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) [?:1.8.0_51]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_51]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1689) [?:1.8.0_51]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) [?:1.8.0_51]
+[14:16:11] [Placebo Patreon Wing Loader/INFO]: Loading patreon wing data...
+[14:16:11] [Placebo Patreon Trail Loader/INFO]: Loading patreon trails data...
+[14:16:12] [Placebo Patreon Wing Loader/INFO]: Loaded 21 patreon wings.
+[14:16:12] [Placebo Patreon Trail Loader/INFO]: Loaded 51 patreon trails.
+[14:16:12] [Worker-Main-8/ERROR]: Using missing texture, unable to load minecraft:textures/jeep_grand_cherokee_trackhawk_f9_2018.png : java.io.FileNotFoundException: minecraft:textures/jeep_grand_cherokee_trackhawk_f9_2018.png
+[14:16:12] [Worker-Main-11/ERROR]: Using missing texture, unable to load minecraft:textures/168910-wm.png : java.io.FileNotFoundException: minecraft:textures/168910-wm.png
+[14:16:12] [Worker-Main-10/ERROR]: Using missing texture, unable to load minecraft:textures/1993_lexus_ls400.png : java.io.FileNotFoundException: minecraft:textures/1993_lexus_ls400.png
+[14:16:12] [Worker-Main-8/ERROR]: Using missing texture, unable to load minecraftmodernxl:textures/blocks/water.png : java.io.FileNotFoundException: minecraftmodernxl:textures/blocks/water.png
+[14:16:12] [Worker-Main-11/ERROR]: Using missing texture, unable to load minecraft:textures/wmremove-transformed.png : java.io.FileNotFoundException: minecraft:textures/wmremove-transformed.png
+[14:16:12] [Worker-Main-10/ERROR]: Using missing texture, unable to load minecraftmodernxl:textures/blocks/water_idle.png : java.io.FileNotFoundException: minecraftmodernxl:textures/blocks/water_idle.png
+[14:16:12] [Worker-Main-10/ERROR]: Using missing texture, unable to load minecraft:textures/18309daeaa805c122bcbf97f898de65d.png : java.io.FileNotFoundException: minecraft:textures/18309daeaa805c122bcbf97f898de65d.png
+[14:16:12] [Worker-Main-6/ERROR]: Using missing texture, unable to load thedirtystuff:textures/blocks/.png : java.io.FileNotFoundException: thedirtystuff:textures/blocks/.png
+[14:16:12] [Worker-Main-10/ERROR]: Using missing texture, unable to load minecraft:textures/b4ef426bc5e3126790925dcec6067df2.png : java.io.FileNotFoundException: minecraft:textures/b4ef426bc5e3126790925dcec6067df2.png
+[14:16:12] [Worker-Main-6/ERROR]: Using missing texture, unable to load minecraftmodernxl:textures/blocks/.png : java.io.FileNotFoundException: minecraftmodernxl:textures/blocks/.png
+[14:16:12] [Worker-Main-10/ERROR]: Using missing texture, unable to load minecraft:textures/24402-mid-wm.png : java.io.FileNotFoundException: minecraft:textures/24402-mid-wm.png
+[14:16:12] [Worker-Main-11/ERROR]: Using missing texture, unable to load minecraft:textures/brabus_900_rocket_g_v12.png : java.io.FileNotFoundException: minecraft:textures/brabus_900_rocket_g_v12.png
+[14:16:12] [Worker-Main-8/ERROR]: Using missing texture, unable to load minecraft:textures/111111111.png : java.io.FileNotFoundException: minecraft:textures/111111111.png
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraftmodernxl:blocks/lantern_light_pinkoff, 34 -> 48
+[14:16:12] [Worker-Main-7/WARN]: Texture minecraftmodernxl:blocks/lantern_light_pinkoff with size 48x79 limits mip level from 4 to 0
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraftmodernxl:blocks/lantern_light_orangeon, 34 -> 48
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraftmodernxl:blocks/lantern_light_darkblueoff, 34 -> 48
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: crimsonframework:supramk4/bucata11, 348 -> 352
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: crimsonframework:supramk4/bucata10, 239 -> 240
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraftmodernxl:blocks/lantern_light_yellowoff, 34 -> 48
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraftmodernxl:blocks/antern_bleu_n, 34 -> 48
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraftmodernxl:blocks/lantern_light_orangeoff, 34 -> 48
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: crimsonframework:supramk4/bucata, 858 -> 864
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraftmodernxl:blocks/lantern_light_greenon, 34 -> 48
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraftmodernxl:blocks/lantern_light_greenoff, 34 -> 48
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraftmodernxl:blocks/tableau_modern_3, 409 -> 416
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraftmodernxl:blocks/tableau_modern_4, 683 -> 688
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraftmodernxl:blocks/tableau_modern_5, 487 -> 496
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraftmodernxl:blocks/tableau_modern_2, 684 -> 688
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraftmodernxl:blocks/tableau_modern_1, 629 -> 640
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraftmodernxl:blocks/tableau_bleu_1, 323 -> 336
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraftmodernxl:blocks/double_tableau_marron, 350 -> 352
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraftmodernxl:blocks/lantern_light_darkblueon, 34 -> 48
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraftmodernxl:blocks/motif_6, 500 -> 512
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraftmodernxl:blocks/motif_4, 945 -> 960
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraftmodernxl:blocks/antern_bleu_ff, 34 -> 48
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraftmodernxl:blocks/lantern_light_pinkon, 34 -> 48
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraftmodernxl:blocks/wallpaper_12, 100 -> 112
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraftmodernxl:blocks/wallpaper_11, 100 -> 112
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraftmodernxl:blocks/wallpaper_10, 100 -> 112
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraftmodernxl:blocks/tableaubleu2, 413 -> 416
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraftmodernxl:blocks/lantern_blanche_texture, 34 -> 48
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraftmodernxl:blocks/livres, 36 -> 48
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraftmodernxl:blocks/lantern_rouge_texture, 34 -> 48
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraftmodernxl:blocks/lantern_light_purpleoff, 34 -> 48
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraftmodernxl:blocks/lantern_light_yellowon, 34 -> 48
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraftmodernxl:blocks/lantern_light_purpleon, 34 -> 48
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraftmodernxl:blocks/lantern_blanche_texture_, 34 -> 48
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraftmodernxl:blocks/tableau_orange_1, 557 -> 560
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraftmodernxl:blocks/tableau_orange_2, 359 -> 368
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: crimsonframework:item/statie, 500 -> 512
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraftmodernxl:blocks/log_tableau, 300 -> 304
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: crimsonframework:item/repair_kit, 500 -> 512
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraftmodernxl:blocks/wallpaper_4, 100 -> 112
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraftmodernxl:blocks/wallpaper_5, 100 -> 112
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraftmodernxl:blocks/wallpaper_1, 100 -> 112
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraftmodernxl:blocks/wallpaper_3, 100 -> 112
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraftmodernxl:blocks/wallpaper_2, 100 -> 112
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraftmodernxl:blocks/wallpaper_8, 100 -> 112
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraftmodernxl:blocks/wallpaper_6, 100 -> 112
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraftmodernxl:blocks/wallpaper_9, 100 -> 112
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraftmodernxl:blocks/wallpaper_7, 100 -> 112
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: saros_road_blocks_mod:items/pngtree-comic-style-trash-can-png-image_2807721, 360 -> 368
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: saros_road_blocks_mod:items/download_1, 226 -> 240
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraftmodernxl:blocks/tableau_a_decoupe_jap, 691 -> 704
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraftmodernxl:blocks/lantern_rouge_texture_on, 34 -> 48
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraftmodernxl:blocks/modern_leaves_7, 40 -> 48
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraftmodernxl:blocks/japon_text_1, 536 -> 544
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraftmodernxl:blocks/japon_text_3, 373 -> 384
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraftmodernxl:blocks/japon_text_4, 385 -> 400
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraftmodernxl:blocks/japon_text_2, 483 -> 496
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: crimsonframework:supramk4/bucata9, 351 -> 352
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: crimsonframework:supramk4/bucata3, 1167 -> 1168
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: crimsonframework:supramk4/bucata4, 137 -> 144
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: crimsonframework:supramk4/bucata5, 213 -> 224
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: crimsonframework:supramk4/bucata6, 162 -> 176
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraftmodernxl:blocks/tapis_2, 150 -> 160
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraftmodernxl:blocks/tapis_1, 150 -> 160
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraftmodernxl:blocks/tapis_5, 150 -> 160
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraftmodernxl:blocks/tableau_vert_1, 292 -> 304
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraftmodernxl:blocks/tableau_vert_2, 714 -> 720
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraftmodernxl:blocks/tapis_3, 150 -> 160
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraftmodernxl:blocks/tapis_6, 150 -> 160
+[14:16:12] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraftmodernxl:blocks/tapis_4, 150 -> 160
+[14:16:12] [Worker-Main-7/WARN]: minecraft:textures/atlas/blocks.png: dropping miplevel from 4 to 0, because of minimum power of two: 1
+[14:16:13] [Worker-Main-9/ERROR]: suppressed exception
+java.lang.RuntimeException: Online mod data expired! Date: Mon Aug 17 11:17:32 EEST 2026
+	at xaero.map.patreon.decrypt.DecryptInputStream.read(DecryptInputStream.java:59) ~[?:1.30.3]
+	at java.io.InputStream.read(InputStream.java:170) ~[?:1.8.0_51]
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284) ~[?:1.8.0_51]
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326) ~[?:1.8.0_51]
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178) ~[?:1.8.0_51]
+	at java.io.InputStreamReader.read(InputStreamReader.java:184) ~[?:1.8.0_51]
+	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:1.8.0_51]
+	at java.io.BufferedReader.readLine(BufferedReader.java:324) ~[?:1.8.0_51]
+	at java.io.BufferedReader.readLine(BufferedReader.java:389) ~[?:1.8.0_51]
+	at xaero.map.misc.Internet.checkModVersion(Internet.java:54) [?:1.30.3]
+	at xaero.map.WorldMap.loadClient(WorldMap.java:165) [?:1.30.3]
+	at xaero.map.WorldMap$$Lambda$3662/1631704888.accept(Unknown Source) [?:1.30.3]
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:247) [eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:239) [eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus$$Lambda$2984/1994100808.invoke(Unknown Source) [eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus$$Lambda$3616/876980897.invoke(Unknown Source) [eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302) [eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283) [eventbus-4.0.0.jar:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.acceptEvent(FMLModContainer.java:106) [?:36.2]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:107) [?:?]
+	at net.minecraftforge.fml.ModContainer$$Lambda$3188/1348937989.run(Unknown Source) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1618) [?:1.8.0_51]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1610) [?:1.8.0_51]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) [?:1.8.0_51]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_51]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1689) [?:1.8.0_51]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) [?:1.8.0_51]
+[14:16:13] [main/INFO]: Loading Xaero's Minimap - Stage 2/2
+[14:16:14] [Worker-Main-7/INFO]: [OptiFine] Multitexture: false
+[14:16:14] [Worker-Main-7/INFO]: [OptiFine] Sprite size: 64
+[14:16:14] [Worker-Main-7/INFO]: [OptiFine] Mipmap levels: 6
+[14:16:14] [Worker-Main-7/INFO]: [OptiFine] Multitexture: false
+[14:16:14] [Worker-Main-7/INFO]: [OptiFine] Sprite size: 64
+[14:16:14] [Worker-Main-7/INFO]: [OptiFine] Mipmap levels: 6
+[14:16:14] [Worker-Main-7/INFO]: [OptiFine] Multitexture: false
+[14:16:14] [Worker-Main-7/INFO]: [OptiFine] Sprite size: 64
+[14:16:14] [Worker-Main-7/INFO]: [OptiFine] Mipmap levels: 6
+[14:16:14] [Worker-Main-7/INFO]: [OptiFine] Multitexture: false
+[14:16:14] [Worker-Main-7/INFO]: [OptiFine] Sprite size: 64
+[14:16:14] [Worker-Main-7/INFO]: [OptiFine] Mipmap levels: 6
+[14:16:14] [Worker-Main-7/INFO]: [OptiFine] Multitexture: false
+[14:16:14] [Worker-Main-7/INFO]: [OptiFine] Sprite size: 64
+[14:16:14] [Worker-Main-7/INFO]: [OptiFine] Mipmap levels: 6
+[14:16:14] [Worker-Main-7/INFO]: [OptiFine] Multitexture: false
+[14:16:14] [Worker-Main-7/INFO]: [OptiFine] Sprite size: 64
+[14:16:14] [Worker-Main-7/INFO]: [OptiFine] Mipmap levels: 6
+[14:16:14] [main/ERROR]: suppressed exception
+java.lang.RuntimeException: Online mod data expired! Date: Mon Aug 17 11:17:32 EEST 2026
+	at xaero.common.patreon.decrypt.DecryptInputStream.read(DecryptInputStream.java:59) ~[?:23.4.4]
+	at java.io.InputStream.read(InputStream.java:170) ~[?:1.8.0_51]
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284) ~[?:1.8.0_51]
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326) ~[?:1.8.0_51]
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178) ~[?:1.8.0_51]
+	at java.io.InputStreamReader.read(InputStreamReader.java:184) ~[?:1.8.0_51]
+	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:1.8.0_51]
+	at java.io.BufferedReader.readLine(BufferedReader.java:324) ~[?:1.8.0_51]
+	at java.io.BufferedReader.readLine(BufferedReader.java:389) ~[?:1.8.0_51]
+	at xaero.common.misc.Internet.checkModVersion(Internet.java:54) [?:23.4.4]
+	at xaero.minimap.XaeroMinimap.loadLater(XaeroMinimap.java:219) [?:23.4.4]
+	at xaero.minimap.XaeroMinimap$$Lambda$11806/1314816509.run(Unknown Source) [?:23.4.4]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1618) [?:1.8.0_51]
+	at net.minecraftforge.fml.DeferredWorkQueue.lambda$makeRunnable$1(DeferredWorkQueue.java:66) [?:?]
+	at net.minecraftforge.fml.DeferredWorkQueue$$Lambda$7886/385635874.run(Unknown Source) [?:?]
+	at net.minecraftforge.fml.DeferredWorkQueue$$Lambda$7885/635879978.execute(Unknown Source) [?:?]
+	at net.minecraftforge.fml.DeferredWorkQueue.makeRunnable(DeferredWorkQueue.java:64) [?:?]
+	at net.minecraftforge.fml.DeferredWorkQueue.lambda$runTasks$0(DeferredWorkQueue.java:59) [?:?]
+	at net.minecraftforge.fml.DeferredWorkQueue$$Lambda$7884/15140522.accept(Unknown Source) [?:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:1.8.0_51]
+	at net.minecraftforge.fml.DeferredWorkQueue.runTasks(DeferredWorkQueue.java:59) [?:?]
+	at net.minecraftforge.fml.ModLoadingStage.lambda$null$7(ModLoadingStage.java:64) [?:?]
+	at net.minecraftforge.fml.ModLoadingStage$$Lambda$3241/1541300552.apply(Unknown Source) [?:?]
+	at java.util.concurrent.CompletableFuture.uniApply(CompletableFuture.java:602) [?:1.8.0_51]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:577) [?:1.8.0_51]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442) [?:1.8.0_51]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) [?:?]
+	at net.minecraft.resources.AsyncReloader$$Lambda$11335/1325342942.run(Unknown Source) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(ThreadTaskExecutor.java:191) [?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(ThreadTaskExecutor.java:153) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213160_bf(ThreadTaskExecutor.java:130) [?:?]
+	at net.minecraft.client.Minecraft.func_195542_b(Minecraft.java:948) [?:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:607) [?:?]
+	at net.minecraft.client.main.Main.main(Main.java:184) [?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraftforge.fml.loading.FMLClientLaunchProvider.lambda$launchService$0(FMLClientLaunchProvider.java:37) [forge-1.16.5-36.2.42.jar:36.2]
+	at net.minecraftforge.fml.loading.FMLClientLaunchProvider$$Lambda$455/2023817059.call(Unknown Source) [forge-1.16.5-36.2.42.jar:36.2]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:54) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:72) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:82) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:66) [modlauncher-8.1.3.jar:?]
+[14:16:14] [main/INFO]: Xaero's Minimap: World Map found!
+[14:16:14] [main/INFO]: Optifine!
+[14:16:14] [main/INFO]: Xaero's Minimap: No Vivecraft!
+[14:16:14] [main/WARN]: Mod 'xaerominimap' took 1.633 s to run a deferred task.
+[14:16:14] [main/INFO]: Loading Xaero's World Map - Stage 2/2
+[14:16:14] [main/INFO]: New world map region cache hash code: 747283566
+[14:16:14] [main/INFO]: Xaero's WorldMap Mod: Xaero's minimap found!
+[14:16:14] [main/INFO]: Optifine!
+[14:16:14] [main/INFO]: Xaero's World Map: No Vivecraft!
+[14:16:20] [main/INFO]: OpenAL initialized.
+[14:16:20] [main/INFO]: Sound engine started
+[14:16:20] [main/INFO]: Created: 128x256x0 jei:textures/atlas/gui.png-atlas
+[14:16:20] [main/INFO]: [OptiFine] Animated sprites: 0
+[14:16:20] [main/WARN]: [OptiFine] Invalid grid V: 16, icon: jei:gui/icons/config_button
+[14:16:20] [main/WARN]: [OptiFine] Invalid grid V: 16, icon: jei:gui/icons/config_button
+[14:16:20] [main/WARN]: [OptiFine] Invalid grid V: 16, icon: jei:gui/icons/config_button_cheat
+[14:16:20] [main/WARN]: [OptiFine] Invalid grid V: 16, icon: jei:gui/icons/config_button_cheat
+[14:16:20] [main/WARN]: [OptiFine] Invalid grid V: 16, icon: jei:gui/icons/arrow_previous
+[14:16:20] [main/WARN]: [OptiFine] Invalid grid V: 16, icon: jei:gui/icons/arrow_previous
+[14:16:20] [main/WARN]: [OptiFine] Invalid grid V: 16, icon: jei:gui/icons/arrow_next
+[14:16:20] [main/WARN]: [OptiFine] Invalid grid V: 16, icon: jei:gui/icons/arrow_next
+[14:16:20] [main/WARN]: [OptiFine] Invalid grid V: 16, icon: minecraft:missingno
+[14:16:20] [main/WARN]: [OptiFine] Invalid grid V: 16, icon: minecraft:missingno
+[14:16:20] [main/WARN]: [OptiFine] Invalid grid V: 16, icon: jei:gui/icons/info
+[14:16:20] [main/WARN]: [OptiFine] Invalid grid V: 16, icon: jei:gui/icons/info
+[14:16:20] [main/WARN]: [OptiFine] Invalid grid V: 16, icon: jei:gui/icons/recipe_transfer
+[14:16:20] [main/WARN]: [OptiFine] Invalid grid V: 16, icon: jei:gui/icons/recipe_transfer
+[14:16:20] [main/INFO]: Created: 8192x8192x0 minecraft:textures/atlas/blocks.png-atlas
+[14:16:21] [main/INFO]: [OptiFine] Animated sprites: 63
+[14:16:21] [main/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[14:16:21] [main/INFO]: [OptiFine] Animated sprites: 0
+[14:16:21] [main/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[14:16:21] [main/INFO]: [OptiFine] Animated sprites: 0
+[14:16:21] [main/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[14:16:21] [main/INFO]: [OptiFine] Animated sprites: 0
+[14:16:21] [main/INFO]: Created: 512x256x4 minecraft:textures/atlas/chest.png-atlas
+[14:16:21] [main/INFO]: [OptiFine] Animated sprites: 0
+[14:16:21] [main/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[14:16:21] [main/INFO]: [OptiFine] Animated sprites: 0
+[14:16:21] [main/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[14:16:21] [main/INFO]: [OptiFine] Animated sprites: 0
+[14:16:37] [main/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[14:16:37] [main/INFO]: [OptiFine] Animated sprites: 0
+[14:16:37] [main/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[14:16:37] [main/INFO]: [OptiFine] Animated sprites: 0
+[14:16:37] [main/INFO]: Created: 128x256x0 minecraft:textures/atlas/mob_effects.png-atlas
+[14:16:37] [main/INFO]: [OptiFine] Animated sprites: 0
+[14:16:37] [main/WARN]: [OptiFine] Invalid grid V: 16, icon: minecraftmodernxl:mob_effect/anti_cardio_deficiency
+[14:16:37] [main/WARN]: [OptiFine] Invalid grid V: 17, icon: minecraftmodernxl:mob_effect/anti_cardio_deficiency
+[14:16:37] [main/WARN]: [OptiFine] Invalid grid V: 16, icon: minecraftmodernxl:mob_effect/anti_cardio_deficiency
+[14:16:37] [main/WARN]: [OptiFine] Invalid grid V: 17, icon: minecraftmodernxl:mob_effect/anti_cardio_deficiency
+[14:16:37] [main/WARN]: [OptiFine] Invalid grid V: 16, icon: minecraftmodernxl:mob_effect/vitaminized
+[14:16:37] [main/WARN]: [OptiFine] Invalid grid V: 17, icon: minecraftmodernxl:mob_effect/vitaminized
+[14:16:37] [main/WARN]: [OptiFine] Invalid grid V: 16, icon: minecraftmodernxl:mob_effect/vitaminized
+[14:16:37] [main/WARN]: [OptiFine] Invalid grid V: 17, icon: minecraftmodernxl:mob_effect/vitaminized
+[14:16:37] [main/INFO]: [OptiFine] *** Reloading custom textures ***
+[14:16:37] [main/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[14:16:37] [main/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[14:16:37] [main/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[14:16:53] [main/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[14:16:53] [main/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[14:16:53] [main/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[14:16:53] [main/INFO]: [OptiFine] Disable Forge light pipeline
+[14:16:53] [main/INFO]: [OptiFine] Set ForgeConfig.CLIENT.forgeLightPipelineEnabled=false
+[14:16:53] [main/INFO]: [net.minecraft.client.gui.screen.MainMenuScreen:handler$zec000$init:524]: Hello from example architectury common mixin!
+[14:16:53] [main/INFO]: [net.minecraft.client.gui.screen.MainMenuScreen:handler$zec000$init:524]: Hello from example architectury common mixin!
+[14:16:54] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: java.lang.RuntimeException: Failed to parse into SignedJWT: null
+[14:16:56] [main/INFO]: [org.slf4j.helpers.Util:report:128]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+[14:16:56] [main/INFO]: [org.slf4j.helpers.Util:report:128]: SLF4J: Defaulting to no-operation (NOP) logger implementation
+[14:16:56] [main/INFO]: [org.slf4j.helpers.Util:report:128]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[14:16:56] [main/INFO]: [org.tlauncher.util.TLModCfg:<clinit>:27]: [TLSkinCape] Current TLSkinCape version is 1.37
+[14:16:56] [main/INFO]: [org.tlauncher.util.TLModCfg:<clinit>:54]: [TLSkinCape] OptiFine detected.
+[14:16:59] [Netty Client IO #0/INFO]: Client has mods that are missing on server: [tlskincape]
+[14:16:59] [main/INFO]: Connecting to 93.119.104.205, 25565
+[14:17:00] [Netty Client IO #1/INFO]: Successfully synchronized gun properties from server
+[14:17:00] [main/INFO]: Injecting existing registry data into this CLIENT instance
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world crimsoncraft:atm
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world crimsoncraft:panel
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:acacia_coffee_table_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:acacia_coffee_table_classic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:acacia_coffee_table_modern
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:acacia_desk_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:acacia_desk_cabinet_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:andesite_coffee_table_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:andesite_coffee_table_classic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:andesite_coffee_table_modern
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:andesite_desk_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:andesite_desk_cabinet_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:andesite_oak_kitchen_cabinet
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:andesite_oak_kitchen_counter
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:andesite_oak_kitchen_counter_oven
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:andesite_oak_kitchen_drawer
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:andesite_oak_kitchen_sink
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:andesite_oak_kitchen_wall_counter
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:andesite_oak_kitchen_wall_drawer
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:andesite_oak_kitchen_wall_small_drawer
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:basalt_chair
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:basalt_chair_classic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:basalt_chair_dinner
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:basalt_chair_modern
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:basalt_classic_nightstand
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:basalt_classic_stool
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:basalt_coffee_table_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:basalt_coffee_table_classic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:basalt_coffee_table_modern
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:basalt_desk_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:basalt_desk_cabinet_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:basalt_kitchen_cabinet
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:basalt_kitchen_counter
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:basalt_kitchen_counter_oven
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:basalt_kitchen_drawer
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:basalt_kitchen_sink
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:basalt_kitchen_wall_counter
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:basalt_kitchen_wall_drawer
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:basalt_kitchen_wall_small_drawer
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:basalt_modern_stool
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:basalt_simple_stool
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:basalt_table_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:basalt_table_classic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:basalt_table_dinner
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:basalt_table_modern_dinner
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:basalt_table_natural
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:basic_bathtub
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:basic_lamp
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:basic_shower_handle
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:basic_shower_head
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:basic_sink
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:birch_coffee_table_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:birch_coffee_table_classic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:birch_coffee_table_modern
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:birch_desk_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:birch_desk_cabinet_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:black_shower_towel
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:blackstone_coffee_table_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:blackstone_coffee_table_classic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:blackstone_coffee_table_modern
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:blackstone_crimson_kitchen_cabinet
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:blackstone_crimson_kitchen_counter
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:blackstone_crimson_kitchen_counter_oven
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:blackstone_crimson_kitchen_drawer
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:blackstone_crimson_kitchen_sink
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:blackstone_crimson_kitchen_wall_counter
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:blackstone_crimson_kitchen_wall_drawer
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:blackstone_crimson_kitchen_wall_small_drawer
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:blackstone_desk_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:blackstone_desk_cabinet_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:blue_shower_towel
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:brown_shower_towel
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:crimson_coffee_table_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:crimson_coffee_table_classic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:crimson_coffee_table_modern
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:crimson_desk_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:crimson_desk_cabinet_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:cyan_shower_towel
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:dark_oak_coffee_table_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:dark_oak_coffee_table_classic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:dark_oak_coffee_table_modern
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:dark_oak_desk_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:dark_oak_desk_cabinet_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:dark_wood_coffee_table_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:dark_wood_coffee_table_classic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:dark_wood_coffee_table_modern
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:dark_wood_desk_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:dark_wood_desk_cabinet_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:diorite_coffee_table_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:diorite_coffee_table_classic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:diorite_coffee_table_modern
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:diorite_desk_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:diorite_desk_cabinet_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:granite_coffee_table_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:granite_coffee_table_classic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:granite_coffee_table_modern
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:granite_desk_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:granite_desk_cabinet_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:granite_terracotta_kitchen_cabinet
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:granite_terracotta_kitchen_counter
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:granite_terracotta_kitchen_counter_oven
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:granite_terracotta_kitchen_drawer
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:granite_terracotta_kitchen_sink
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:granite_terracotta_kitchen_wall_counter
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:granite_terracotta_kitchen_wall_drawer
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:granite_terracotta_kitchen_wall_small_drawer
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:gray_mirror
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:gray_shower_towel
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:green_shower_towel
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:iron_toaster
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:jungle_coffee_table_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:jungle_coffee_table_classic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:jungle_coffee_table_modern
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:jungle_desk_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:jungle_desk_cabinet_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:light_blue_shower_towel
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:light_gray_shower_towel
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:light_wood_coffee_table_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:light_wood_coffee_table_classic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:light_wood_coffee_table_modern
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:light_wood_desk_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:light_wood_desk_cabinet_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:lime_shower_towel
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:magenta_shower_towel
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:mesh_trashcan
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:netherite_coffee_table_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:netherite_coffee_table_classic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:netherite_coffee_table_modern
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:netherite_desk_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:netherite_desk_cabinet_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:oak_coffee_table_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:oak_coffee_table_classic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:oak_coffee_table_modern
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:oak_desk_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:oak_desk_cabinet_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:orange_shower_towel
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:pink_shower_towel
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:purple_shower_towel
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:quartz_coffee_table_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:quartz_coffee_table_classic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:quartz_coffee_table_modern
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:quartz_desk_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:quartz_desk_cabinet_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:red_shower_towel
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:spruce_coffee_table_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:spruce_coffee_table_classic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:spruce_coffee_table_modern
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:spruce_desk_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:spruce_desk_cabinet_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:stone_coffee_table_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:stone_coffee_table_classic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:stone_coffee_table_modern
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:stone_desk_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:stone_desk_cabinet_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:stripped_acacia_coffee_table_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:stripped_acacia_coffee_table_classic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:stripped_acacia_coffee_table_modern
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:stripped_acacia_desk_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:stripped_acacia_desk_cabinet_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:stripped_birch_coffee_table_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:stripped_birch_coffee_table_classic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:stripped_birch_coffee_table_modern
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:stripped_birch_desk_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:stripped_birch_desk_cabinet_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:stripped_crimson_coffee_table_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:stripped_crimson_coffee_table_classic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:stripped_crimson_coffee_table_modern
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:stripped_crimson_desk_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:stripped_crimson_desk_cabinet_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:stripped_dark_oak_coffee_table_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:stripped_dark_oak_coffee_table_classic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:stripped_dark_oak_coffee_table_modern
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:stripped_dark_oak_desk_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:stripped_dark_oak_desk_cabinet_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:stripped_jungle_coffee_table_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:stripped_jungle_coffee_table_classic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:stripped_jungle_coffee_table_modern
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:stripped_jungle_desk_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:stripped_jungle_desk_cabinet_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:stripped_oak_coffee_table_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:stripped_oak_coffee_table_classic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:stripped_oak_coffee_table_modern
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:stripped_oak_desk_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:stripped_oak_desk_cabinet_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:stripped_spruce_coffee_table_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:stripped_spruce_coffee_table_classic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:stripped_spruce_coffee_table_modern
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:stripped_spruce_desk_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:stripped_spruce_desk_cabinet_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:stripped_warped_coffee_table_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:stripped_warped_coffee_table_classic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:stripped_warped_coffee_table_modern
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:stripped_warped_desk_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:stripped_warped_desk_cabinet_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:trashcan
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:wall_toilet_paper
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:warped_coffee_table_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:warped_coffee_table_classic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:warped_coffee_table_modern
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:warped_desk_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:warped_desk_cabinet_basic
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:white_mirror
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:white_shower_towel
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world pfm:yellow_shower_towel
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world toughasnails:rain_collector
+[14:17:00] [main/INFO]: Registry minecraft:block: Found a missing id from the world toughasnails:water_purifier
+[14:17:05] [Netty Client IO #1/INFO]: Connected to a modded server.
+[14:17:05] [main/INFO]: New world map session initialized!
+[14:17:05] [main/INFO]: New minimap session initialized!
+[14:17:06] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:17:06] [main/INFO]: Reloading entity icon resources...
+[14:17:06] [main/INFO]: Done!
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_zloty
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_hundred_zloty
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:two_thousand_cz_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_dk_krone_from_hundred_dk_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_cz_krone
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/cgm:machine_pistol
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_se_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_se_krone_from_ten_se_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_in_rupees
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_ccents_from_ten
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:hundred_rs_dinar_from_five_hundred_rs_dinar
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_dollars_from_ten
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:thousand_no_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_is_krone_from_fifty_is_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:hundred_euros_from_two
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_yen
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:hundred_za_rand
+[14:17:06] [main/WARN]: Unknown recipe category: vehicle:crafting/vehicle:craft_smart_car
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:two_pence
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_pence
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:awm
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_rs_dinar_from_ten_rs_dinar
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_dk_krone_from_two_dk_krone
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:usp
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_thousand_cz_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:cinci_lei_md_from_zece
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_cn_yuan_1
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:hundred_cn_yuan
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:holo_scope
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:two_hundred_no_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:thousand_kr_won_from_five_thousand_kr_won
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_nz_dollars_1
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_mx_pesos
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_ecents_from_fifty
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_ph_piso_from_ten_ph_piso
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:ak15
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:hundred_se_krone_from_five_hundred_se_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:hundred_kr_won
+[14:17:06] [main/WARN]: Unknown recipe category: vehicle:crafting/vehicle:craft_dune_buggy
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_pounds_from_fifty
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_zloty_from_ten_zloty
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:zece_lei
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:hundred_rs_dinar
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:cincizeci_bani_md_from_unu
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_nz_dollar_from_five_nz_dollars
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_euros_1
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:cincizeci_bani
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:cinci_bani_1900
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_tr_lira_from_ten_tr_lira
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:two_se_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_thousand_yen
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_za_rand_from_twenty_za_rand
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:douazeci_bani_1900
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:9a91
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:douazeci_lei_md_1
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_tr_lira
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_br_reais_from_ten_br_reais
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_tr_lira_1
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/cgm:short_scope
+[14:17:06] [main/WARN]: Unknown recipe category: vehicle:crafting/vehicle:craft_bumper_car
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_mx_centavos_from_twenty_mx_centavos
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/cgm:light_grip
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_lev
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_pence_from_one
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_acents
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_tr_lira
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_no_krone_from_five_no_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_in_rupees
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_is_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_kurus_from_one_tr_lira
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:zece_lei_from_douazeci
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_francs_from_twenty
+[14:17:06] [main/WARN]: Unknown recipe category: vehicle:crafting/vehicle:craft_speed_boat
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_dk_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_euros_from_fifty
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:twenty_groszy
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:python
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_euro_from_five
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_groszy_from_twenty_groszy
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_groszy_from_ten_groszy
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_se_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_tr_lira_from_fifty_tr_lira
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_dollar_1
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:unica
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_pounds
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_ph_piso
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:hundred_francs
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:hundred_ft_from_five_hundred_ft
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_acents_from_fifty
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_pounds
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_franc_from_two
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:twenty_cn_yuan
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/cgm:shotgun
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_nz_dollars_from_ten_nz_dollars
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_leva_from_twenty_leva
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:card_steel
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_ecent_from_five
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_dk_krone_from_twenty_dk_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_cn_yuan
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:thousand_yen_1
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_francs_from_ten
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_za_cents_from_one_za_rand
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:twenty_se_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:un_leu_md_from_doi
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_pence
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_no_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:thousand_ft_from_five_thousand_ft
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_hundred_dk_krone_from_thousand_dk_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_se_krone_from_twenty_se_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:hundred_cz_krone_from_five_hundred_cz_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_no_krone_from_fifty_no_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_is_krone
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:vector
+[14:17:06] [main/WARN]: Unknown recipe category: vehicle:fluid_extractor/vehicle:extract_blaze_rod
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_grosz_from_five_groszy
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:vintorez_stock
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:douazeci_lei_md
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:pp_19
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_pounds_from_ten
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:thousand_yen
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_mx_centavos
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:twentyfive_cents
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:hundred_no_krone_from_five_hundred_no_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:twenty_ecents
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_hundred_yen_from_thousand
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_kr_won
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:cincizeci_lei_from_suta
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_adollars
+[14:17:06] [main/WARN]: Unknown recipe category: cfm:freezer_solidify/minecraft:packed_ice_from_freezing
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:m4a4
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_hundred_no_krone_from_thousand_no_krone
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:bullet_short
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_thousand_kr_won
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/cgm:silencer
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_cdollars_1
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:cinci_bani_from_zece
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_mx_centavos_from_ten_mx_centavos
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:special_paper
+[14:17:06] [main/WARN]: Unknown recipe category: cfm:grill_cooking/minecraft:dried_kelp_from_grill_cooking
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:cinci_lei_from_zece
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_rs_dinar
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_pounds_from_twenty
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_is_krone_from_ten_is_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:twenty_euros
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:hundred_euros_from_five
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:two_francs
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:card_classic
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:ak104
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:half_franc_from_one
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_cdollars_from_twenty
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:un_leu_1
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:mie_lei_md
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/cgm:tactical_stock
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:doua_sute_lei
+[14:17:06] [main/WARN]: Unknown recipe category: vehicle:crafting/vehicle:craft_golf_cart
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_nz_dollars
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_adollars_from_fifty
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_cz_krone_from_hundred_cz_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:twenty_adollars
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:twenty_five_kurus
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_se_krone_from_five_se_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_ccents_from_twentyfive
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_leva
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_cn_yuan
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_rs_dinar_from_twenty_rs_dinar
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_rs_dinar_from_two_rs_dinar
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:thousand_se_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_stotinki
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_cdollars_from_fifty
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_stotinki_from_ten_stotinki
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_rs_dinar_from_five_rs_dinar
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_francs_from_fifty
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_leva_from_hundred_leva
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:zece_bani_1900
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_kurus
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_ph_piso
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:two_thousand_rs_dinar
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_se_krone_from_fifty_se_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_cn_yuan_from_twenty_cn_yuan
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:two_hundred_za_rand
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_yen_from_fifty
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:cincizeci_lei_md
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_pounds_1
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:twentyfive_ccents
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:suta_lei_md_from_cincisute
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_mx_pesos_from_hundred_mx_pesos
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_nz_cents
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:twenty_cdollars
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:un_ban_carol_from_cinci
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:bullet_special
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:fn2000
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:thousand_dk_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_leva_1
+[14:17:06] [main/WARN]: Unknown recipe category: vehicle:crafting/vehicle:craft_mini_bike
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:un_leu_carol_from_cinci
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_ft
+[14:17:06] [main/WARN]: Unknown recipe category: vehicle:crafting/vehicle:craft_mini_bus
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_cz_krone_from_five_cz_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:twenty_centimes
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_cn_yuan_from_five_cn_yuan
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:thousand_is_krone_from_five_thousand_is_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_thousand_kr_won
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:hundred_br_reais_from_two_hundred_br_reais
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:cinci_lei_carol_from_douazeci
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_ecents_from_one
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_dk_krone_from_fifty_dk_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_br_real
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:un_leu_md_from_cinci
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_dollar
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_cents_from_one
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:toonie
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:suta_lei_md
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_ccents
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_cn_yuan_from_fifty_cn_yuan
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:zerkalo_scope
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_ecents
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_centimes
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_thousand_yen
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:half_franc
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_za_rand_from_ten_za_rand
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:twenty_rs_dinar
+[14:17:06] [main/WARN]: Unknown recipe category: vehicle:crafting/vehicle:craft_sports_plane
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_dollars_from_twenty
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:angled_grip
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/cgm:stun_grenade
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_yen_from_ten
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:doua_sute_lei_md
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:casing_heavy
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:two_leva
+[14:17:06] [main/WARN]: Unknown recipe category: vehicle:crafting/vehicle:craft_go_kart
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:thousand_kr_won_1
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_dollars_from_hundred
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_no_krone_from_twenty_no_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_hundred_ft_from_thousand_ft
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_za_cents
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_leva_from_fifty_leva
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:twenty_ph_piso
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:zece_bani_carol_from_cincizeci
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:douazeci_si_cinci_lei_1900_c
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:two_pounds
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_hundred_cz_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_leva
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:douazeci_cinci_lei_carol_from_cincizeci
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_yen_from_hundred
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:two_ecents
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:ssg08
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:hundred_leva
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_aere_dk_from_one_dk_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_nz_dollars
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:douazeci_cinci_lei_1900
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_hundred_is_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_br_reais_from_fifty_br_reais
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:bullet_medium
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:mp7a2
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_cz_krone
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:casing_special
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_rs_dinar_from_hundred_rs_dinar
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_francs
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_groszy_from_fifty_groszy
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:ak74
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_cz_krone_from_fifty_cz_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_nz_dollars_from_twenty_nz_dollars
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:un_leu_md
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/cgm:grenade
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/cgm:mini_gun
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_euro
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:two_dk_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_hundred_yen
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:twenty_thousand_ft
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_euros_from_hundred
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/cgm:medium_scope
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:zece_bani
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_euros
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_thousand_kr_won_from_ten_thousand_kr_won
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:douazeci_lei_1900
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_zloty_1
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:twentyfive_br_centavos
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:two_hundred_mx_pesos
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_za_cents_from_fifty_za_cents
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:twenty_za_cents
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:un_ban_from_cinci
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_adollar
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:hundred_cdollars
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:val
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_thousand_kr_won_from_fifty_thousand_kr_won
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_hundred_cz_krone_from_thousand_cz_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_adollars_1
+[14:17:06] [main/WARN]: Unknown recipe category: vehicle:crafting/vehicle:craft_jet_ski
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_mx_peso
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:two_hundred_in_rupees
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_nz_dollars
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_za_rand_from_two_za_rand
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_dollars
+[14:17:06] [main/WARN]: Unknown recipe category: cfm:grill_cooking/minecraft:baked_potato_from_grill_cooking
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_adollars
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_adollars_from_twenty
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_dollar_from_five
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_thousand_ft
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_br_reais
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:thousand_yen_from_five
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_cz_krone_from_ten_cz_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:two_cz_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:cinci_bani_carol_from_zece
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:desert_eagle
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_dollars
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_br_centavos_from_twentyfive_br_centavos
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:two_thousand_ft
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_stotinka_from_two_stotinki
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:mat_49
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:hundred_dollars
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_groszy_from_one_zloty
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:hundred_francs_from_two
+[14:17:06] [main/WARN]: Unknown recipe category: vehicle:crafting/vehicle:craft_aluminum_boat
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:over_under
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_euro_from_two
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_hundred_in_rupees
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:hundred_cz_krone_from_two_hundred_cz_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_dk_krone_1
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:scar
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:hundred_euros
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:hundred_rs_dinar_from_two_hundred_rs_dinar
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_hundred_mx_pesos
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:twenty_se_krone_1
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_ph_piso_from_five_ph_piso
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:hundred_ft
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_mx_centavos
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_pence_from_ten
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_kurus
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:un_leu_1900
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:thousand_rs_dinar
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:thousand_ft_from_two_thousand_ft
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:ak12
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_adollars
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:card_gold
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_cn_yuan_from_hundred_cn_yuan
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:twenty_five_ph_sentimo
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_cdollars_from_ten
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_br_reais_from_twenty_br_reais
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_za_rand_from_five_za_rand
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_dk_krone_from_five_dk_krone
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:schwarzlose
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:hundred_nz_dollars
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_za_rand
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:hundred_ph_piso_from_five_hundred_ph_piso
+[14:17:06] [main/WARN]: Unknown recipe category: vehicle:crafting/vehicle:craft_atv
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_dk_krone_from_ten_dk_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_br_real_from_five_br_reais
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_cn_yuan_from_ten_cn_yuan
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_ecents
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:hundred_no_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:cinci_bani_md_from_zece
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:hundred_is_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:douazecicinci_bani_md
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_is_krone_from_hundred_is_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:cinci_lei_carol_from_douazeci_cinci
+[14:17:06] [main/WARN]: Unknown recipe category: vehicle:crafting/vehicle:craft_moped
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_za_cents_from_twenty_za_cents
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:cinci_bani_md_from_douazecicinci
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_zloty_from_two_zloty
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:thousand_cz_krone_from_five_thousand_cz_krone
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:sniper_muzzle_brake
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_ph_piso
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_hundred_se_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:zece_lei_md_from_douazeci
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:cinci_sute_lei_md
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:ak105
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_mx_centavos_from_one_mx_peso
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_zloty
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_in_rupees_from_fifty_in_rupees
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_thousand_ft
+[14:17:06] [main/WARN]: Unknown recipe category: cfm:grill_cooking/minecraft:cooked_salmon_from_grill_cooking
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_in_rupees
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_ecents_from_twenty
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_hundred_kr_won_from_thousand_kr_won
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_hundred_euros
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_cz_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:un_leu
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:hundred_in_rupees_from_five_hundred_in_rupees
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_pence_from_two
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_br_centavos_from_one_br_real
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:two_hundred_cz_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:two_br_reais
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_lev_from_five_leva
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:casing_medium
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:two_za_rand
+[14:17:06] [main/WARN]: Unknown recipe category: cfm:grill_cooking/minecraft:cooked_rabbit_from_grill_cooking
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_dollars_from_fifty
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_cents
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:casing_small
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/cgm:shell
+[14:17:06] [main/WARN]: Unknown recipe category: vehicle:crafting/vehicle:craft_fluid_trailer
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:m1014
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:hundred_zloty_from_five_hundred_zloty
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_hundred_is_krone_1
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_zloty_from_five_zloty
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:zece_lei_md_from_cincizeci
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_ft_from_ten_ft
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_ph_piso_from_fifty_ph_piso
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:vintorez
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_cn_yuan
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:thousand_kr_won
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:cinci_lei_md
+[14:17:06] [main/WARN]: Unknown recipe category: cfm:grill_cooking/minecraft:cooked_cod_from_grill_cooking
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_br_reais
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:two_br_reais_1
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:thousand_cz_krone_from_two_thousand_cz_krone
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:magnum
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:twenty_leva
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_groszy
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:hundred_se_krone_from_two_hundred_se_krone
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:p250
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:bullet_small
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:hundred_no_krone_from_two_hundred_no_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:cincizeci_lei_md_from_suta
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:ots_03
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_is_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_ph_piso_from_hundred_ph_piso
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_zloty_from_fifty_zloty
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:aug
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:suta_lei_md_from_douasute
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_francs
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:two_hundred_tr_lira
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:two_thousand_is_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_tr_lira_from_hundred_tr_lira
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:zece_bani_carol_from_douazeci
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:douazecicinci_bani_md_from_cincizeci
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_grosz_from_two_grosze
+[14:17:06] [main/WARN]: Unknown recipe category: vehicle:crafting/vehicle:craft_storage_trailer
+[14:17:06] [main/WARN]: Unknown recipe category: cfm:grill_cooking/minecraft:cooked_chicken_from_grill_cooking
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:two_hundred_se_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_thousand_is_krone
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:bullet_heavy
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_kurus
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_tr_lira
+[14:17:06] [main/WARN]: Unknown recipe category: vehicle:crafting/vehicle:craft_off_roader
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:thousand_is_krone_from_two_thousand_is_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_acents
+[14:17:06] [main/WARN]: Unknown recipe category: cfm:freezer_solidify/minecraft:blue_ice_from_freezing
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:hundred_dk_krone_from_five_hundred_dk_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_ft_from_twenty_ft
+[14:17:06] [main/WARN]: Unknown recipe category: vehicle:crafting/vehicle:craft_fertilizer
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_cdollars
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:hundred_kr_won_from_five_hundred_kr_won
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_ph_piso_from_twenty_ph_piso
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:hundred_dk_krone
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:custom_mac
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:twenty_ph_piso_1
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:casing_long
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:twenty_mx_pesos_1
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:two_hundred_rs_dinar
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:hundred_tr_lira_from_two_hundred_tr_lira
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_nz_cents_from_twenty_nz_cents
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/cgm:missile
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_pound_from_two
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:zece_bani_from_cincizeci
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:cinci_lei_1900
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_mx_pesos
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:tactical_silencer
+[14:17:06] [main/WARN]: Unknown recipe category: cfm:grill_cooking/minecraft:cooked_porkchop_from_grill_cooking
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_stotinki
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_centimes_from_half
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:thousand_mx_pesos
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_adollars_from_ten
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_nz_dollar_from_two_nz_dollars
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:two_grosze
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_stotinka_from_five_stotinki
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:cincizeci_lei_carol_from_suta
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:hundred_yen_from_five
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:hundred_za_rand_from_two_hundred_za_rand
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:basic_stock
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:atm
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_ecents_from_ten
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_euros_from_ten
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:m4a1s
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_hundred_ft_1
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_pence_from_twenty
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_acents_from_one
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_adollar_from_two
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_br_reais_from_hundred_br_reais
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:thousand_francs
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_br_reais
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:cinci_bani
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:two_rs_dinar
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:cincizeci_bani_1900
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_stotinki
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:two_mx_pesos
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_cn_yuan
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:twenty_cz_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_euros
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_mx_centavos_from_fifty_mx_centavos
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:banshee
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:un_leu_from_cinci
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:ak74m
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:two_hundred_ft
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:usas12
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_hundred_is_krone_from_thousand_is_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_dk_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_dk_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:twenty_acents
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_mx_pesos_from_twenty_mx_pesos
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_adollar_from_five
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:akm
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:twenty_za_rand
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:hundred_zloty
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_groszy
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_cdollars
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_is_krone_from_five_is_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_se_krone
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/cgm:assault_rifle
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_centimes_from_ten
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_adollars_from_hundred
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:douasprezece_lei_1900_1
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_leva_from_ten_leva
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/cgm:basic_bullet
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:thousand_rs_dinar_from_five_thousand_rs_dinar
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:twenty_in_rupees
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_ft_from_fifty_ft
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:twenty_br_reais
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:hundred_ph_piso_from_two_hundred_ph_piso
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:twentyfive_cents_from_fifty
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_cn_jiao
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:suta_lei_from_douasute
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_br_real_from_two_br_reais
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:cinci_sute_lei_md_from_mie
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:kobra
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_cdollar_from_five
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:cinci_sute_lei
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_yen_from_five
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_nz_dollars_from_fifty_nz_dollars
+[14:17:06] [main/WARN]: Unknown recipe category: cfm:freezer_solidify/minecraft:ice_from_freezing
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:two_zloty
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_thousand_ft_from_ten_thousand_ft
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_francs_from_hundred
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:hundred_se_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_no_krone_from_ten_no_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:twenty_mx_centavos
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/cgm:rifle
+[14:17:06] [main/WARN]: Unknown recipe category: vehicle:fluid_extractor/vehicle:extract_ender_pearl
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:zece_lei_from_cincizeci
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_cn_jiao_from_one_cn_yuan
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:hundred_dk_krone_from_two_hundred_dk_krone
+[14:17:06] [main/WARN]: Unknown recipe category: vehicle:crafting/vehicle:craft_lawn_mower
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:hundred_zloty_from_two_hundred_zloty
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_cent_from_five
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_zloty
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_in_rupees_from_ten_in_rupees
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_thousand_is_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:zece_lei_md
+[14:17:06] [main/WARN]: Unknown recipe category: cfm:grill_cooking/minecraft:cooked_beef_from_grill_cooking
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:un_ban_carol_from_doi
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:akm_custom
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_tr_lira_from_five_tr_lira
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:two_euros
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_in_rupees_from_hundred_in_rupees
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:twenty_zloty
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_kurus_from_ten_kurus
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:two_stotinki
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:muzzle_brake
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/cgm:long_scope
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:hundred_mx_pesos_from_five_hundred_mx_pesos
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_franc
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_thousand_kr_won
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:twenty_five_ph_sentimo_from_one_ph_piso
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_thousand_ft_from_twenty_thousand_ft
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:hundred_is_krone_from_five_hundred_is_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_br_centavos_from_ten_br_centavos
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_stotinki_from_one_lev
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_pence_from_five
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_lev_from_two_leva
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:aks74u
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_cz_krone_from_twenty_cz_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:hundred_adollars
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_zloty_from_twenty_zloty
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:twenty_dk_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_cents_from_twentyfive
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_nz_cents_from_fifty_nz_cents
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:suta_lei_1900
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_euros
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_franc_from_five
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_hundred_ft
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:twenty_pence
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:hundred_mx_pesos_from_two_hundred_mx_pesos
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/cgm:weighted_stock
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:suta_lei_from_cincisute
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_cn_jiao_from_five_cn_jiao
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:doi_lei_md
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_rs_dinar_from_fifty_rs_dinar
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:thousand_rs_dinar_from_two_thousand_rs_dinar
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_yen
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_nz_dollars_from_hundred_nz_dollars
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:thousand_ph_piso
+[14:17:06] [main/WARN]: Unknown recipe category: vehicle:fluid_mixer/vehicle:mix_fuelium
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_thousand_is_krone_from_ten_thousand_is_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_zloty
+[14:17:06] [main/WARN]: Unknown recipe category: vehicle:crafting/vehicle:craft_shopping_cart
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:twenty_mx_pesos
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:casing_short
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:cincizeci_lei_1900
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/cgm:grenade_launcher
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_acents_from_twenty
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_in_rupee_from_five_in_rupees
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_mx_peso_from_two_mx_pesos
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_centimes_from_twenty
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_kr_won_from_hundred_kr_won
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_za_rand
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:twenty_no_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_mx_pesos
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_br_centavos
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_francs_1
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:zece_bani_md
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:twenty_nz_cents
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/cgm:heavy_rifle
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_dollars
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_ph_sentimo_from_twenty_five_ph_sentimo
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_hundred_rs_dinar
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:doi_bani_1900
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:cincizeci_bani_carol_from_unu
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_zloty_from_hundred_zloty
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_leva
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_hundred_no_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_thousand_yen_from_ten
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:two_in_rupees
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_rs_dinar_1
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_cents
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_kurus_from_twenty_five_kurus
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_br_centavos
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_kurus_from_five_kurus
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:two_hundred_ph_piso
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:cincizeci_lei
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:un_leu_carol_from_doi
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_pounds
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:mammoth
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:hundred_br_reais
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_in_rupees_from_twenty_in_rupees
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_hundred_se_krone_from_thousand_se_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_francs
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:hundred_ft_from_two_hundred_ft
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_pence_from_fifty
+[14:17:06] [main/WARN]: Unknown recipe category: vehicle:crafting/vehicle:craft_dirt_bike
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:hundred_cz_krone_1
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:bullet_long
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:m16a2
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:twenty_nz_dollars
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:cincizeci_bani_from_unu
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:twenty_tr_lira
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:g11
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_hundred_ph_piso_from_thousand_ph_piso
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:suta_lei
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_in_rupees_1
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:twenty_francs
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:hundred_ph_piso
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:twenty_dollars
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:hundred_tr_lira
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_za_rand
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/cgm:advanced_bullet
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:thousand_ft
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_mx_pesos_from_ten_mx_pesos
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_rs_dinar
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_za_rand_1
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:two_nz_dollars
+[14:17:06] [main/WARN]: Unknown recipe category: vehicle:crafting/vehicle:craft_vehicle_trailer
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_cents
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_rs_dinar
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:two_hundred_br_reais
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_za_rand_from_hundred_za_rand
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_pound
+[14:17:06] [main/WARN]: Unknown recipe category: cfm:grill_cooking/minecraft:cooked_mutton_from_grill_cooking
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:two_hundred_francs
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_hundred_dk_krone
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:tactical_muzzle_brake
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:ravens_claw
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:twentyfive_ccents_from_one
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:m1911
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:two_hundred_zloty
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_ft_from_hundred_ft
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:twenty_ft
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:mac10
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_ph_sentimo_from_five_ph_sentimo
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_ph_sentimo
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:two_hundred_dk_krone
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:glock18
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_za_rand
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_pound_from_five
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:twenty_five_kurus_from_fifty_kurus
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_dk_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_cdollars_from_hundred
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:thousand_cz_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_nz_cents_from_one_nz_dollar
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_yen
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_kr_won_from_fifty_kr_won
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_ecent_from_two
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_stotinki_from_twenty_stotinki
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_in_rupee_from_two_in_rupees
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:mp7
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:hundred_in_rupees_from_two_hundred_in_rupees
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_thousand_rs_dinar
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:hundred_cz_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_euros_from_twenty
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_hundred_kr_won
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:two_hundred_francs_from_thousand
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:twentyfive_br_centavos_from_fifty_br_centavos
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:cincizeci_bani_md
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_acents_from_ten
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_stotinki_from_fifty_stotinki
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:loonie
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_cdollars
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:doi_lei_1900
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/cgm:bazooka
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_no_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:hundred_mx_pesos
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_ph_piso
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_pence
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_se_krone_from_hundred_se_krone
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/cgm:pistol
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:twenty_stotinki
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_nz_dollar
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:hundred_in_rupees
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:two_adollars
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_no_krone_from_hundred_no_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_cdollar_from_two
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:hundred_yen
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_za_rand_from_fifty_za_rand
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_tr_lira
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_ft
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_cents_from_ten
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_hundred_ph_piso
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:fifty_no_krone_1
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/additionalguns:ace_of_spades
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_tr_lira_from_twenty_tr_lira
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/cgm:light_stock
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:douazeci_lei
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_mx_pesos_from_fifty_mx_pesos
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_ecents
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_groszy
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_hundred_rs_dinar_from_thousand_rs_dinar
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:two_hundred_euros
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:ten_no_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:five_hundred_mx_pesos_from_thousand_mx_pesos
+[14:17:06] [main/WARN]: Unknown recipe category: cgm:workbench/cgm:specialised_grip
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_mx_peso_from_five_mx_pesos
+[14:17:06] [main/WARN]: Unknown recipe category: vehicle:crafting/vehicle:craft_seeder
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_se_krone_from_two_se_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:thousand_is_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:one_cz_krone_from_two_cz_krone
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:cinci_lei
+[14:17:06] [main/WARN]: Unknown recipe category: vehicle:crafting/vehicle:craft_tractor
+[14:17:06] [main/WARN]: Unknown recipe category: bubusteinmoneymod:bank_machine/bubusteinmoneymod:twenty_pounds
+[14:17:10] [main/INFO]: Starting JEI...
+[14:17:10] [main/INFO]: Registering item subtypes: jei:minecraft ...
+[14:17:10] [main/INFO]: Registering item subtypes: jei:minecraft took 1.135 ms
+[14:17:10] [main/INFO]: Registering item subtypes: farmersdelight:jei_plugin ...
+[14:17:10] [main/INFO]: Registering item subtypes: farmersdelight:jei_plugin took 5.100 ?s
+[14:17:10] [main/INFO]: Registering item subtypes: usefulbackpacks:jei ...
+[14:17:10] [main/INFO]: Registering item subtypes: usefulbackpacks:jei took 161.8 ?s
+[14:17:10] [main/INFO]: Registering item subtypes: cgm:crafting ...
+[14:17:10] [main/INFO]: Registering item subtypes: cgm:crafting took 3.500 ?s
+[14:17:10] [main/INFO]: Registering item subtypes: jei:debug ...
+[14:17:10] [main/INFO]: Registering item subtypes: jei:debug took 3.900 ?s
+[14:17:10] [main/INFO]: Registering item subtypes: securitycraft:securitycraft ...
+[14:17:10] [main/INFO]: Registering item subtypes: securitycraft:securitycraft took 3.000 ?s
+[14:17:10] [main/INFO]: Registering item subtypes: uteamcore:jei ...
+[14:17:10] [main/INFO]: Registering item subtypes: uteamcore:jei took 3.000 ?s
+[14:17:10] [main/INFO]: Registering item subtypes: pfm:jei_plugin ...
+[14:17:10] [main/INFO]: Registering item subtypes: pfm:jei_plugin took 3.000 ?s
+[14:17:10] [main/INFO]: Registering item subtypes: bubusteinmoneymod:jei_plugin ...
+[14:17:10] [main/INFO]: Registering item subtypes: bubusteinmoneymod:jei_plugin took 2.900 ?s
+[14:17:10] [main/INFO]: Registering item subtypes: jei:internal ...
+[14:17:10] [main/INFO]: Registering item subtypes: jei:internal took 3.000 ?s
+[14:17:10] [main/INFO]: Registering fluid subtypes: jei:minecraft ...
+[14:17:10] [main/INFO]: Registering fluid subtypes: jei:minecraft took 11.00 ?s
+[14:17:10] [main/INFO]: Registering fluid subtypes: farmersdelight:jei_plugin ...
+[14:17:10] [main/INFO]: Registering fluid subtypes: farmersdelight:jei_plugin took 3.300 ?s
+[14:17:10] [main/INFO]: Registering fluid subtypes: usefulbackpacks:jei ...
+[14:17:10] [main/INFO]: Registering fluid subtypes: usefulbackpacks:jei took 3.200 ?s
+[14:17:10] [main/INFO]: Registering fluid subtypes: cgm:crafting ...
+[14:17:10] [main/INFO]: Registering fluid subtypes: cgm:crafting took 3.000 ?s
+[14:17:10] [main/INFO]: Registering fluid subtypes: jei:debug ...
+[14:17:10] [main/INFO]: Registering fluid subtypes: jei:debug took 884.2 ?s
+[14:17:10] [main/INFO]: Registering fluid subtypes: securitycraft:securitycraft ...
+[14:17:10] [main/INFO]: Registering fluid subtypes: securitycraft:securitycraft took 6.000 ?s
+[14:17:10] [main/INFO]: Registering fluid subtypes: uteamcore:jei ...
+[14:17:10] [main/INFO]: Registering fluid subtypes: uteamcore:jei took 3.600 ?s
+[14:17:10] [main/INFO]: Registering fluid subtypes: pfm:jei_plugin ...
+[14:17:10] [main/INFO]: Registering fluid subtypes: pfm:jei_plugin took 4.200 ?s
+[14:17:10] [main/INFO]: Registering fluid subtypes: bubusteinmoneymod:jei_plugin ...
+[14:17:10] [main/INFO]: Registering fluid subtypes: bubusteinmoneymod:jei_plugin took 2.700 ?s
+[14:17:10] [main/INFO]: Registering fluid subtypes: jei:internal ...
+[14:17:10] [main/INFO]: Registering fluid subtypes: jei:internal took 2.700 ?s
+[14:17:10] [main/INFO]: Registering ingredients: jei:minecraft ...
+[14:17:10] [main/INFO]: Registering ingredients: jei:minecraft took 74.59 ms
+[14:17:10] [main/INFO]: Registering ingredients: farmersdelight:jei_plugin ...
+[14:17:10] [main/INFO]: Registering ingredients: farmersdelight:jei_plugin took 6.700 ?s
+[14:17:10] [main/INFO]: Registering ingredients: usefulbackpacks:jei ...
+[14:17:10] [main/INFO]: Registering ingredients: usefulbackpacks:jei took 8.700 ?s
+[14:17:10] [main/INFO]: Registering ingredients: cgm:crafting ...
+[14:17:10] [main/INFO]: Registering ingredients: cgm:crafting took 4.300 ?s
+[14:17:10] [main/INFO]: Registering ingredients: jei:debug ...
+[14:17:10] [main/INFO]: Registering ingredients: jei:debug took 37.10 ?s
+[14:17:10] [main/INFO]: Registering ingredients: securitycraft:securitycraft ...
+[14:17:10] [main/INFO]: Registering ingredients: securitycraft:securitycraft took 3.400 ?s
+[14:17:10] [main/INFO]: Registering ingredients: uteamcore:jei ...
+[14:17:10] [main/INFO]: Registering ingredients: uteamcore:jei took 3.200 ?s
+[14:17:10] [main/INFO]: Registering ingredients: pfm:jei_plugin ...
+[14:17:10] [main/INFO]: Registering ingredients: pfm:jei_plugin took 3.200 ?s
+[14:17:10] [main/INFO]: Registering ingredients: bubusteinmoneymod:jei_plugin ...
+[14:17:10] [main/INFO]: Registering ingredients: bubusteinmoneymod:jei_plugin took 3.700 ?s
+[14:17:10] [main/INFO]: Registering ingredients: jei:internal ...
+[14:17:10] [main/INFO]: Registering ingredients: jei:internal took 3.100 ?s
+[14:17:10] [main/INFO]: Registering categories: jei:minecraft ...
+[14:17:10] [main/INFO]: Registering categories: jei:minecraft took 16.45 ms
+[14:17:10] [main/INFO]: Registering categories: farmersdelight:jei_plugin ...
+[14:17:10] [main/INFO]: Registering categories: farmersdelight:jei_plugin took 3.648 ms
+[14:17:10] [main/INFO]: Registering categories: usefulbackpacks:jei ...
+[14:17:10] [main/INFO]: Registering categories: usefulbackpacks:jei took 7.100 ?s
+[14:17:10] [main/INFO]: Registering categories: cgm:crafting ...
+[14:17:10] [main/INFO]: Registering categories: cgm:crafting took 4.267 ms
+[14:17:10] [main/INFO]: Registering categories: jei:debug ...
+[14:17:10] [main/INFO]: Registering categories: jei:debug took 11.10 ?s
+[14:17:10] [main/INFO]: Registering categories: securitycraft:securitycraft ...
+[14:17:10] [main/INFO]: Registering categories: securitycraft:securitycraft took 2.761 ms
+[14:17:10] [main/INFO]: Registering categories: uteamcore:jei ...
+[14:17:10] [main/INFO]: Registering categories: uteamcore:jei took 5.200 ?s
+[14:17:10] [main/INFO]: Registering categories: pfm:jei_plugin ...
+[14:17:10] [main/INFO]: Registering categories: pfm:jei_plugin took 2.945 ms
+[14:17:10] [main/INFO]: Registering categories: bubusteinmoneymod:jei_plugin ...
+[14:17:10] [main/INFO]: [bubusteinmoneymod] Registering categories
+[14:17:10] [main/INFO]: Registering categories: bubusteinmoneymod:jei_plugin took 1.108 ms
+[14:17:10] [main/INFO]: Registering categories: jei:internal ...
+[14:17:10] [main/INFO]: Registering categories: jei:internal took 1.649 ms
+[14:17:10] [main/INFO]: Registering vanilla category extensions: jei:minecraft ...
+[14:17:10] [main/INFO]: Registering vanilla category extensions: jei:minecraft took 2.409 ms
+[14:17:10] [main/INFO]: Registering vanilla category extensions: farmersdelight:jei_plugin ...
+[14:17:10] [main/INFO]: Registering vanilla category extensions: farmersdelight:jei_plugin took 7.500 ?s
+[14:17:10] [main/INFO]: Registering vanilla category extensions: usefulbackpacks:jei ...
+[14:17:10] [main/INFO]: Registering vanilla category extensions: usefulbackpacks:jei took 1.639 ms
+[14:17:10] [main/INFO]: Registering vanilla category extensions: cgm:crafting ...
+[14:17:10] [main/INFO]: Registering vanilla category extensions: cgm:crafting took 10.70 ?s
+[14:17:10] [main/INFO]: Registering vanilla category extensions: jei:debug ...
+[14:17:10] [main/INFO]: Registering vanilla category extensions: jei:debug took 3.700 ?s
+[14:17:10] [main/INFO]: Registering vanilla category extensions: securitycraft:securitycraft ...
+[14:17:10] [main/INFO]: Registering vanilla category extensions: securitycraft:securitycraft took 2.900 ?s
+[14:17:10] [main/INFO]: Registering vanilla category extensions: uteamcore:jei ...
+[14:17:10] [main/INFO]: Registering vanilla category extensions: uteamcore:jei took 2.600 ?s
+[14:17:10] [main/INFO]: Registering vanilla category extensions: pfm:jei_plugin ...
+[14:17:10] [main/INFO]: Registering vanilla category extensions: pfm:jei_plugin took 2.700 ?s
+[14:17:10] [main/INFO]: Registering vanilla category extensions: bubusteinmoneymod:jei_plugin ...
+[14:17:10] [main/INFO]: Registering vanilla category extensions: bubusteinmoneymod:jei_plugin took 2.900 ?s
+[14:17:10] [main/INFO]: Registering vanilla category extensions: jei:internal ...
+[14:17:10] [main/INFO]: Registering vanilla category extensions: jei:internal took 2.700 ?s
+[14:17:10] [main/INFO]: Registering recipes: jei:minecraft ...
+[14:17:10] [main/INFO]: Registering recipes: jei:minecraft took 101.9 ms
+[14:17:10] [main/INFO]: Registering recipes: farmersdelight:jei_plugin ...
+[14:17:10] [main/INFO]: Registering recipes: farmersdelight:jei_plugin took 7.665 ms
+[14:17:10] [main/INFO]: Registering recipes: usefulbackpacks:jei ...
+[14:17:10] [main/INFO]: Registering recipes: usefulbackpacks:jei took 5.500 ?s
+[14:17:10] [main/INFO]: Registering recipes: cgm:crafting ...
+[14:17:10] [main/INFO]: Registering recipes: cgm:crafting took 3.079 ms
+[14:17:10] [main/INFO]: Registering recipes: jei:debug ...
+[14:17:10] [main/INFO]: Registering recipes: jei:debug took 18.70 ?s
+[14:17:10] [main/INFO]: Registering recipes: securitycraft:securitycraft ...
+[14:17:10] [main/INFO]: Registering recipes: securitycraft:securitycraft took 2.403 ms
+[14:17:10] [main/INFO]: Registering recipes: uteamcore:jei ...
+[14:17:10] [main/INFO]: Registering recipes: uteamcore:jei took 27.54 ms
+[14:17:10] [main/INFO]: Registering recipes: pfm:jei_plugin ...
+[14:17:10] [main/INFO]: Registering recipes: pfm:jei_plugin took 621.2 ?s
+[14:17:10] [main/INFO]: Registering recipes: bubusteinmoneymod:jei_plugin ...
+[14:17:10] [main/INFO]: [bubusteinmoneymod] Registering recipes
+[14:17:10] [main/INFO]: [bubusteinmoneymod] Loaded 618 Bank Machine recipes
+[14:17:10] [main/INFO]: Registering recipes: bubusteinmoneymod:jei_plugin took 458.6 ?s
+[14:17:10] [main/INFO]: Registering recipes: jei:internal ...
+[14:17:10] [main/INFO]: Registering recipes: jei:internal took 3.800 ?s
+[14:17:10] [main/INFO]: Registering recipes transfer handlers: jei:minecraft ...
+[14:17:10] [main/INFO]: Registering recipes transfer handlers: jei:minecraft took 3.705 ms
+[14:17:10] [main/INFO]: Registering recipes transfer handlers: farmersdelight:jei_plugin ...
+[14:17:10] [main/INFO]: Registering recipes transfer handlers: farmersdelight:jei_plugin took 15.30 ?s
+[14:17:10] [main/INFO]: Registering recipes transfer handlers: usefulbackpacks:jei ...
+[14:17:10] [main/INFO]: Registering recipes transfer handlers: usefulbackpacks:jei took 4.000 ?s
+[14:17:10] [main/INFO]: Registering recipes transfer handlers: cgm:crafting ...
+[14:17:10] [main/INFO]: Registering recipes transfer handlers: cgm:crafting took 3.000 ?s
+[14:17:10] [main/INFO]: Registering recipes transfer handlers: jei:debug ...
+[14:17:10] [main/INFO]: Registering recipes transfer handlers: jei:debug took 2.900 ?s
+[14:17:10] [main/INFO]: Registering recipes transfer handlers: securitycraft:securitycraft ...
+[14:17:10] [main/INFO]: Registering recipes transfer handlers: securitycraft:securitycraft took 2.700 ?s
+[14:17:10] [main/INFO]: Registering recipes transfer handlers: uteamcore:jei ...
+[14:17:10] [main/INFO]: Registering recipes transfer handlers: uteamcore:jei took 2.500 ?s
+[14:17:10] [main/INFO]: Registering recipes transfer handlers: pfm:jei_plugin ...
+[14:17:10] [main/INFO]: Registering recipes transfer handlers: pfm:jei_plugin took 2.400 ?s
+[14:17:10] [main/INFO]: Registering recipes transfer handlers: bubusteinmoneymod:jei_plugin ...
+[14:17:10] [main/INFO]: Registering recipes transfer handlers: bubusteinmoneymod:jei_plugin took 2.400 ?s
+[14:17:10] [main/INFO]: Registering recipes transfer handlers: jei:internal ...
+[14:17:10] [main/INFO]: Registering recipes transfer handlers: jei:internal took 2.300 ?s
+[14:17:10] [main/INFO]: Registering recipe catalysts: jei:minecraft ...
+[14:17:10] [main/INFO]: Registering recipe catalysts: jei:minecraft took 115.9 ?s
+[14:17:10] [main/INFO]: Registering recipe catalysts: farmersdelight:jei_plugin ...
+[14:17:10] [main/INFO]: Registering recipe catalysts: farmersdelight:jei_plugin took 32.10 ?s
+[14:17:10] [main/INFO]: Registering recipe catalysts: usefulbackpacks:jei ...
+[14:17:10] [main/INFO]: Registering recipe catalysts: usefulbackpacks:jei took 4.000 ?s
+[14:17:10] [main/INFO]: Registering recipe catalysts: cgm:crafting ...
+[14:17:10] [main/INFO]: Registering recipe catalysts: cgm:crafting took 25.60 ?s
+[14:17:10] [main/INFO]: Registering recipe catalysts: jei:debug ...
+[14:17:10] [main/INFO]: Registering recipe catalysts: jei:debug took 6.800 ?s
+[14:17:10] [main/INFO]: Registering recipe catalysts: securitycraft:securitycraft ...
+[14:17:10] [main/INFO]: Registering recipe catalysts: securitycraft:securitycraft took 39.20 ?s
+[14:17:10] [main/INFO]: Registering recipe catalysts: uteamcore:jei ...
+[14:17:10] [main/INFO]: Registering recipe catalysts: uteamcore:jei took 2.700 ?s
+[14:17:10] [main/INFO]: Registering recipe catalysts: pfm:jei_plugin ...
+[14:17:10] [main/INFO]: Registering recipe catalysts: pfm:jei_plugin took 33.30 ?s
+[14:17:10] [main/INFO]: Registering recipe catalysts: bubusteinmoneymod:jei_plugin ...
+[14:17:10] [main/INFO]: Registering recipe catalysts: bubusteinmoneymod:jei_plugin took 2.500 ?s
+[14:17:10] [main/INFO]: Registering recipe catalysts: jei:internal ...
+[14:17:10] [main/INFO]: Registering recipe catalysts: jei:internal took 3.100 ?s
+[14:17:10] [main/INFO]: Registering gui handlers: jei:minecraft ...
+[14:17:10] [main/INFO]: Registering gui handlers: jei:minecraft took 2.801 ms
+[14:17:10] [main/INFO]: Registering gui handlers: farmersdelight:jei_plugin ...
+[14:17:10] [main/INFO]: Registering gui handlers: farmersdelight:jei_plugin took 24.70 ?s
+[14:17:10] [main/INFO]: Registering gui handlers: usefulbackpacks:jei ...
+[14:17:10] [main/INFO]: Registering gui handlers: usefulbackpacks:jei took 4.400 ?s
+[14:17:10] [main/INFO]: Registering gui handlers: cgm:crafting ...
+[14:17:10] [main/INFO]: Registering gui handlers: cgm:crafting took 3.200 ?s
+[14:17:10] [main/INFO]: Registering gui handlers: jei:debug ...
+[14:17:10] [main/INFO]: Registering gui handlers: jei:debug took 6.900 ?s
+[14:17:10] [main/INFO]: Registering gui handlers: securitycraft:securitycraft ...
+[14:17:10] [main/INFO]: Registering gui handlers: securitycraft:securitycraft took 1.442 ms
+[14:17:10] [main/INFO]: Registering gui handlers: uteamcore:jei ...
+[14:17:10] [main/INFO]: Registering gui handlers: uteamcore:jei took 4.800 ?s
+[14:17:10] [main/INFO]: Registering gui handlers: pfm:jei_plugin ...
+[14:17:10] [main/INFO]: Registering gui handlers: pfm:jei_plugin took 3.100 ?s
+[14:17:10] [main/INFO]: Registering gui handlers: bubusteinmoneymod:jei_plugin ...
+[14:17:10] [main/INFO]: Registering gui handlers: bubusteinmoneymod:jei_plugin took 2.600 ?s
+[14:17:10] [main/INFO]: Registering gui handlers: jei:internal ...
+[14:17:10] [main/INFO]: Registering gui handlers: jei:internal took 4.141 ms
+[14:17:10] [main/INFO]: Registering advanced plugins: jei:minecraft ...
+[14:17:10] [main/INFO]: Registering advanced plugins: jei:minecraft took 15.10 ?s
+[14:17:10] [main/INFO]: Registering advanced plugins: farmersdelight:jei_plugin ...
+[14:17:10] [main/INFO]: Registering advanced plugins: farmersdelight:jei_plugin took 3.700 ?s
+[14:17:10] [main/INFO]: Registering advanced plugins: usefulbackpacks:jei ...
+[14:17:10] [main/INFO]: Registering advanced plugins: usefulbackpacks:jei took 3.300 ?s
+[14:17:10] [main/INFO]: Registering advanced plugins: cgm:crafting ...
+[14:17:10] [main/INFO]: Registering advanced plugins: cgm:crafting took 2.900 ?s
+[14:17:10] [main/INFO]: Registering advanced plugins: jei:debug ...
+[14:17:10] [main/INFO]: Registering advanced plugins: jei:debug took 2.500 ?s
+[14:17:10] [main/INFO]: Registering advanced plugins: securitycraft:securitycraft ...
+[14:17:10] [main/INFO]: Registering advanced plugins: securitycraft:securitycraft took 2.500 ?s
+[14:17:10] [main/INFO]: Registering advanced plugins: uteamcore:jei ...
+[14:17:10] [main/INFO]: Registering advanced plugins: uteamcore:jei took 2.500 ?s
+[14:17:10] [main/INFO]: Registering advanced plugins: pfm:jei_plugin ...
+[14:17:10] [main/INFO]: Registering advanced plugins: pfm:jei_plugin took 2.400 ?s
+[14:17:10] [main/INFO]: Registering advanced plugins: bubusteinmoneymod:jei_plugin ...
+[14:17:10] [main/INFO]: Registering advanced plugins: bubusteinmoneymod:jei_plugin took 2.600 ?s
+[14:17:10] [main/INFO]: Registering advanced plugins: jei:internal ...
+[14:17:10] [main/INFO]: Registering advanced plugins: jei:internal took 2.600 ?s
+[14:17:10] [main/INFO]: Building ingredient list...
+[14:17:10] [main/INFO]: Building ingredient list took 2.156 ms
+[14:17:10] [main/INFO]: Building ingredient filter...
+[14:17:11] [main/INFO]: Building ingredient filter took 256.2 ms
+[14:17:11] [main/INFO]: Building bookmarks...
+[14:17:11] [main/INFO]: Building bookmarks took 818.8 ?s
+[14:17:11] [main/INFO]: Building recipe registry...
+[14:17:11] [main/INFO]: Building recipe registry took 78.10 ms
+[14:17:11] [main/INFO]: Building runtime...
+[14:17:11] [main/INFO]: Building runtime took 35.42 ms
+[14:17:11] [main/INFO]: Sending Runtime: jei:minecraft ...
+[14:17:11] [main/INFO]: Sending Runtime: jei:minecraft took 16.90 ?s
+[14:17:11] [main/INFO]: Sending Runtime: farmersdelight:jei_plugin ...
+[14:17:11] [main/INFO]: Sending Runtime: farmersdelight:jei_plugin took 3.800 ?s
+[14:17:11] [main/INFO]: Sending Runtime: usefulbackpacks:jei ...
+[14:17:11] [main/INFO]: Sending Runtime: usefulbackpacks:jei took 3.100 ?s
+[14:17:11] [main/INFO]: Sending Runtime: cgm:crafting ...
+[14:17:11] [main/INFO]: Sending Runtime: cgm:crafting took 2.700 ?s
+[14:17:11] [main/INFO]: Sending Runtime: jei:debug ...
+[14:17:11] [main/INFO]: Sending Runtime: jei:debug took 9.200 ?s
+[14:17:11] [main/INFO]: Sending Runtime: securitycraft:securitycraft ...
+[14:17:11] [main/INFO]: Sending Runtime: securitycraft:securitycraft took 2.500 ?s
+[14:17:11] [main/INFO]: Sending Runtime: uteamcore:jei ...
+[14:17:11] [main/INFO]: Sending Runtime: uteamcore:jei took 2.500 ?s
+[14:17:11] [main/INFO]: Sending Runtime: pfm:jei_plugin ...
+[14:17:11] [main/INFO]: Sending Runtime: pfm:jei_plugin took 2.300 ?s
+[14:17:11] [main/INFO]: Sending Runtime: bubusteinmoneymod:jei_plugin ...
+[14:17:11] [main/INFO]: Sending Runtime: bubusteinmoneymod:jei_plugin took 2.500 ?s
+[14:17:11] [main/INFO]: Sending Runtime: jei:internal ...
+[14:17:11] [main/INFO]: Sending Runtime: jei:internal took 13.70 ?s
+[14:17:11] [main/INFO]: Starting JEI took 776.9 ms
+[14:17:11] [main/INFO]: [CHAT] [AutoPickup] Version: 1.4.4-SNAPSHOT is not up to date. Please check your console on next startup or reload.
+[14:17:11] [main/INFO]: [CHAT] §6? §eClick §6§lHERE§e to view the latest version.
+[14:17:11] [main/INFO]: [CHAT] STAFFCHAT • [+] SZN_Nero
+[14:17:11] [main/INFO]: [CHAT] 
+[14:17:11] [main/INFO]: [CHAT] A newer version of DecentHolograms is available. Download it from: 
+[14:17:11] [main/INFO]: [CHAT] - https://www.spigotmc.org/resources/96927/
+[14:17:11] [main/INFO]: [CHAT] - https://modrinth.com/plugin/decentholograms
+[14:17:11] [main/INFO]: [CHAT] An update for PlaceholderAPI (PlaceholderAPI v2.12.3)
+[14:17:11] [main/INFO]: [CHAT] is available at https://modrinth.com/plugin/placeholderapi
+[14:17:11] [main/WARN]: Unknown custom packet identifier: vehicle:play
+[14:17:11] [main/WARN]: Unknown custom packet identifier: vehicle:play
+[14:17:11] [main/INFO]: Minimap updated server level id: 1843308629 for world ResourceKey[minecraft:dimension / minecraft:overworld]
+[14:17:11] [main/INFO]: [CHAT] [SecurityCraft] Thanks for using SecurityCraft v1.9.7.1! Tip: If you like SecurityCraft, please consider supporting us on Patreon! You can work with us to get a feature of your choosing into the mod. https://www.patreon.com/Geforce
+[14:17:11] [main/INFO]: [CHAT] Blips dezactivate.
+[14:17:11] [main/INFO]: [CHAT] (CrimsonCraft) ›› SZN_Nero A sosit in oras  +
+[14:17:11] [main/INFO]: Loaded 1006 advancements
+[14:17:11] [main/INFO]: [CHAT] Please, login with the command: /login <password>
+[14:17:12] [main/INFO]: Connecting to 93.119.104.205:25565
+[14:17:12] [main/INFO]: Disconnecting from /93.119.104.205:25565 with reason RECONNECT
+[14:17:12] [main/INFO]: Connecting to 93.119.104.205:25565
+[14:17:12] [main/INFO]: [CHAT] Please, login with the command: /login <password>
+[14:17:12] [main/INFO]: calculated cape performance:TEXTURE_272, middle time: 1.1666666666666667
+[14:17:13] [main/INFO]: Device OpenAL Soft on Voicemeeter Out B1 (VB-Audio Voicemeeter VAIO) initialized
+[14:17:13] [main/INFO]: Audio capture initialized
+[14:17:13] [Al Output Device OpenAL Soft on Speakers (2- AQIRYS CYGNUS 7.1 Headset)/INFO]: Device OpenAL Soft on Speakers (2- AQIRYS CYGNUS 7.1 Headset) initialized
+[14:17:13] [main/INFO]: Connected to /93.119.104.205:25565
+[14:17:13] [main/INFO]: textures 'elitra_test_272' was added, skin: false,cape: true, max waiting: 34 ,during : 17672 
+[14:17:13] [main/INFO]: can use texture size:TEXTURE_272, middle time: 4.4
+[14:17:14] [pool-4-thread-1/INFO]: [CHAT] New version 2.1.13 of Plasmo Voice is available: Download
+[14:17:17] [main/INFO]: [CHAT] Please, login with the command: /login <password>
+[14:17:22] [main/INFO]: [CHAT] Please, login with the command: /login <password>
+[14:17:27] [main/INFO]: [CHAT] Please, login with the command: /login <password>
+[14:17:32] [main/INFO]: [CHAT] Please, login with the command: /login <password>
+[14:17:37] [main/INFO]: [CHAT] Please, login with the command: /login <password>
+[14:17:42] [main/INFO]: [CHAT] Please, login with the command: /login <password>
+[14:17:47] [main/INFO]: [CHAT] Please, login with the command: /login <password>
+[14:17:52] [main/INFO]: [CHAT] Please, login with the command: /login <password>
+[14:17:57] [main/INFO]: [CHAT] Please, login with the command: /login <password>
+[14:18:02] [main/INFO]: [CHAT] Please, login with the command: /login <password>
+[14:18:07] [main/INFO]: [CHAT] Please, login with the command: /login <password>
+[14:18:12] [main/INFO]: [CHAT] Please, login with the command: /login <password>
+[14:18:17] [main/INFO]: [CHAT] Please, login with the command: /login <password>
+[14:18:22] [main/INFO]: [CHAT] Please, login with the command: /login <password>
+[14:18:27] [main/INFO]: [CHAT] Please, login with the command: /login <password>
+[14:18:32] [main/INFO]: [CHAT] Please, login with the command: /login <password>
+[14:18:37] [main/INFO]: [CHAT] Please, login with the command: /login <password>
+[14:18:42] [main/INFO]: [CHAT] Please, login with the command: /login <password>
+[14:18:47] [main/INFO]: [CHAT] Please, login with the command: /login <password>
+[14:18:52] [main/INFO]: [CHAT] Please, login with the command: /login <password>
+[14:18:57] [main/INFO]: [CHAT] Please, login with the command: /login <password>
+[14:19:02] [main/INFO]: [CHAT] Please, login with the command: /login <password>
+[14:19:04] [main/INFO]: [CHAT] Successful login!
+[14:19:52] [main/INFO]: [CHAT] Teleporting...
+[14:19:52] [main/INFO]: [CHAT] Teleporting...
+[14:19:54] [main/WARN]: Optifine is detected. JEI's fast item rendering is being disabled to prevent rendering issues.
+[14:20:16] [main/INFO]: [CHAT] Teleporting...
+[14:20:16] [main/INFO]: [CHAT] Teleporting...
+[14:20:17] [main/WARN]: Unknown custom packet identifier: vehicle:play
+[14:20:21] [main/INFO]: [CHAT] Set game mode creative for SZN_Nero.
+[14:20:53] [main/INFO]: [CHAT] Anunt CNN plasat pentru 50$.
+[14:21:20] [main/WARN]: Unknown custom packet identifier: vehicle:play
+[14:21:41] [main/INFO]: [CHAT] (CrimsonCraft) Itemele de pe jos vor fi sterse in 60 secunde!
+[14:21:44] [main/WARN]: Unknown custom packet identifier: vehicle:play
+[14:21:53] [main/INFO]: [CHAT] Teleporting...
+[14:21:53] [main/INFO]: [CHAT] Teleporting...
+[14:21:54] [main/WARN]: Unknown custom packet identifier: vehicle:play
+[14:22:21] [main/INFO]: [CHAT] (CrimsonCraft) Itemele de pe jos vor fi sterse in 20 secunde!
+[14:22:35] [main/INFO]: [CHAT] Teleporting...
+[14:22:35] [main/INFO]: [CHAT] Teleporting...
+[14:22:41] [main/INFO]: [CHAT] (CrimsonCraft) S-au sters 0 Entitati!
+[14:22:46] [main/INFO]: [CHAT] Ai inceput jobul de sudor.
+[14:23:04] [main/INFO]: [CHAT] Teleporting...
+[14:23:04] [main/INFO]: [CHAT] Teleporting...
+[14:29:21] [main/INFO]: [CHAT] (CrimsonCraft) Itemele de pe jos vor fi sterse in 60 secunde!
+[14:30:01] [main/INFO]: [CHAT] (CrimsonCraft) Itemele de pe jos vor fi sterse in 20 secunde!
+[14:30:21] [main/INFO]: [CHAT] (CrimsonCraft) S-au sters 0 Entitati!
+[14:37:01] [main/INFO]: [CHAT] (CrimsonCraft) Itemele de pe jos vor fi sterse in 60 secunde!
+[14:37:41] [main/INFO]: [CHAT] (CrimsonCraft) Itemele de pe jos vor fi sterse in 20 secunde!
+[14:38:01] [main/INFO]: [CHAT] (CrimsonCraft) S-au sters 0 Entitati!
+[14:44:41] [main/INFO]: [CHAT] (CrimsonCraft) Itemele de pe jos vor fi sterse in 60 secunde!
+[14:45:21] [main/INFO]: [CHAT] (CrimsonCraft) Itemele de pe jos vor fi sterse in 20 secunde!
+[14:45:41] [main/INFO]: [CHAT] (CrimsonCraft) S-au sters 0 Entitati!
+[14:52:21] [main/INFO]: [CHAT] (CrimsonCraft) Itemele de pe jos vor fi sterse in 60 secunde!
+[14:53:01] [main/INFO]: [CHAT] (CrimsonCraft) Itemele de pe jos vor fi sterse in 20 secunde!
+[14:53:21] [main/INFO]: [CHAT] (CrimsonCraft) S-au sters 0 Entitati!
+[15:00:01] [main/INFO]: [CHAT] (CrimsonCraft) Itemele de pe jos vor fi sterse in 60 secunde!
+[15:00:41] [main/INFO]: [CHAT] (CrimsonCraft) Itemele de pe jos vor fi sterse in 20 secunde!
+[15:01:01] [main/INFO]: [CHAT] (CrimsonCraft) S-au sters 0 Entitati!
+[15:07:41] [main/INFO]: [CHAT] (CrimsonCraft) Itemele de pe jos vor fi sterse in 60 secunde!
+[15:08:21] [main/INFO]: [CHAT] (CrimsonCraft) Itemele de pe jos vor fi sterse in 20 secunde!
+[15:08:41] [main/INFO]: [CHAT] (CrimsonCraft) S-au sters 0 Entitati!
+[15:15:14] [main/INFO]: Finalizing world map session...
+[15:15:14] [Thread-12/INFO]: World map cleaned normally!
+[15:15:16] [main/INFO]: World map session finalized.
+[15:15:16] [main/INFO]: Minimap session finalized.
+[15:15:16] [main/INFO]: Disconnecting from /93.119.104.205:25565 with reason DISCONNECT
+[15:15:16] [Al Output Device OpenAL Soft on Speakers (2- AQIRYS CYGNUS 7.1 Headset)/INFO]: Device OpenAL Soft on Speakers (2- AQIRYS CYGNUS 7.1 Headset) closed
+[15:15:16] [Voice Audio Capture/INFO]: Device OpenAL Soft on Voicemeeter Out B1 (VB-Audio Voicemeeter VAIO) closed

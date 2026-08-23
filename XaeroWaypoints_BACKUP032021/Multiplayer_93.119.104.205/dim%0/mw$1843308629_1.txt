@@ -1,0 +1,40 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:Aeroport:A:3851:80:562:7:false:0:gui.xaero_default:false:0:1:false
+waypoint:Diicot:D:4357:80:-696:11:false:0:gui.xaero_default:false:0:1:false
+waypoint:Spital:S:4481:80:-700:4:false:0:gui.xaero_default:false:0:1:false
+waypoint:Magazin Haine:MH:4357:84:-737:10:false:0:gui.xaero_default:false:0:1:false
+waypoint:Benzinarie:B:4387:77:-760:6:false:0:gui.xaero_default:false:0:1:false
+waypoint:CNN:C:4422:84:-731:4:false:0:gui.xaero_default:false:0:1:false
+waypoint:Rafinarie Petrol:R:4780:76:-609:7:false:0:gui.xaero_default:false:0:1:false
+waypoint:Topitorie:T:4661:75:-595:2:false:0:gui.xaero_default:false:0:1:false
+waypoint:Mecanic:M:4625:74:-596:14:false:0:gui.xaero_default:false:0:1:false
+waypoint:Benzinarie:B:4606:74:-528:1:false:0:gui.xaero_default:false:0:1:false
+waypoint:Politie:P:4560:79:-481:10:false:0:gui.xaero_default:false:0:1:false
+waypoint:Backpack:B:4588:91:-404:6:false:0:gui.xaero_default:false:0:1:false
+waypoint:Gunshop:G:4697:80:-453:7:false:0:gui.xaero_default:false:0:1:false
+waypoint:Spital:S:4705:79:-532:8:false:0:gui.xaero_default:false:0:1:false
+waypoint:Pescar:P:4650:91:-298:3:false:0:gui.xaero_default:false:0:1:false
+waypoint:Spital:S:4701:82:-186:9:false:0:gui.xaero_default:false:0:1:false
+waypoint:Spital:S:4696:82:-43:4:false:0:gui.xaero_default:false:0:1:false
+waypoint:Magazin Haine:MH:4624:86:-73:8:false:0:gui.xaero_default:false:0:1:false
+waypoint:Primarie:P:4630:78:-133:6:false:0:gui.xaero_default:false:0:1:false
+waypoint:Politie:P:4523:82:-44:5:false:0:gui.xaero_default:false:0:1:false
+waypoint:Mecanic:M:4527:78:0:10:false:0:gui.xaero_default:false:0:1:false
+waypoint:Benzinarie:B:4555:78:-6:4:false:0:gui.xaero_default:false:0:1:false
+waypoint:Gunshop:G:4600:83:18:14:false:0:gui.xaero_default:false:0:1:false
+waypoint:Parc de Distractii:P:4474:86:96:13:false:0:gui.xaero_default:false:0:1:false
+waypoint:Benzinarie:B:4092:80:522:5:false:0:gui.xaero_default:false:0:1:false
+waypoint:Sell Auto:S:4067:87:570:7:false:0:gui.xaero_default:false:0:1:false
+waypoint:Dealership:D:3974:91:552:12:false:0:gui.xaero_default:false:0:1:false
+waypoint:Extragere Petrol:E:3896:82:378:10:false:0:gui.xaero_default:false:0:1:false
+waypoint:Electrician:E:4192:86:200:7:false:0:gui.xaero_default:false:0:1:false
+waypoint:Benzinarie:B:4164:77:175:14:false:0:gui.xaero_default:false:0:1:false
+waypoint:Miner:M:4053:84:155:9:false:0:gui.xaero_default:false:0:1:false
+waypoint:Culegator:C:3873:78:42:10:false:0:gui.xaero_default:false:0:1:false
+waypoint:Sofer de Tir:S:4148:91:-18:13:false:0:gui.xaero_default:false:0:1:false
+waypoint:Apicultor:A:4222:75:-228:6:false:0:gui.xaero_default:false:0:1:false
+waypoint:Mecanic:M:3935:75:-195:11:false:0:gui.xaero_default:false:0:1:false
+waypoint:Ploturi:P:4058:95:-469:15:false:0:gui.xaero_default:false:0:1:false
+waypoint:Banca:B:3693:81:-759:10:false:0:gui.xaero_default:false:0:1:false
